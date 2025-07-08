@@ -1,0 +1,205 @@
+2025-06-22 16:30:14,627 - __main__ - INFO - Logging configured successfully!
+2025-06-23 11:27:45,271 - __main__ - INFO - Logging configured successfully!
+2025-06-23 11:29:54,498 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-06-23 11:31:56,357 - __main__ - INFO - Logging configured successfully!
+2025-06-23 11:32:13,222 - __main__ - INFO - 'فولاد' is selected
+2025-06-23 11:32:16,844 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-23 11:32:18,846 - __main__ - INFO - 1404-04-02 to
+2025-06-23 11:32:18,847 - __main__ - INFO - 1399-04-02 from
+2025-06-23 11:32:33,310 - __main__ - INFO - Finished all pages!
+2025-06-23 11:33:01,352 - __main__ - INFO - Logging configured successfully!
+2025-06-23 11:33:20,458 - __main__ - INFO - Logging configured successfully!
+2025-06-23 11:47:07,894 - __main__ - INFO - Logging configured successfully!
+2025-06-23 11:47:23,372 - __main__ - INFO - 'فولاد' is selected
+2025-06-23 11:47:27,003 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-23 11:47:29,004 - __main__ - INFO - 1404-04-02 to
+2025-06-23 11:47:29,005 - __main__ - INFO - 1399-04-02 from
+2025-06-23 11:47:43,254 - __main__ - INFO - Finished all pages!
+2025-06-24 12:23:09,113 - __main__ - INFO - Logging configured successfully!
+2025-06-24 12:24:28,854 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-06-24 12:24:52,715 - __main__ - INFO - 'فولاد' is selected
+2025-06-24 12:24:56,394 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-24 12:24:58,396 - __main__ - INFO - 1404-04-03 to
+2025-06-24 12:24:58,397 - __main__ - INFO - 1399-04-03 from
+2025-06-24 12:25:12,463 - __main__ - INFO - Finished all pages!
+2025-06-24 14:45:19,904 - __main__ - INFO - Logging configured successfully!
+2025-06-24 14:46:46,259 - selenium.webdriver.common.selenium_manager - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2025-06-24 14:46:46,259 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-06-24 14:47:56,153 - __main__ - INFO - Logging configured successfully!
+2025-06-24 14:49:20,717 - selenium.webdriver.common.selenium_manager - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2025-06-24 14:50:00,774 - __main__ - INFO - Logging configured successfully!
+2025-06-24 14:51:30,811 - __main__ - INFO - Logging configured successfully!
+2025-06-24 14:52:55,399 - selenium.webdriver.common.selenium_manager - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2025-06-25 08:49:42,001 - __main__ - INFO - Logging configured successfully!
+2025-06-25 08:50:37,708 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-06-25 08:51:02,952 - __main__ - INFO - 'فولاد' is selected
+2025-06-25 08:51:06,654 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-25 08:51:08,656 - __main__ - INFO - 1404-04-04 to
+2025-06-25 08:51:08,657 - __main__ - INFO - 1399-04-04 from
+2025-06-25 08:51:23,954 - __main__ - INFO - Finished all pages!
+2025-06-25 09:01:19,773 - __main__ - INFO - Logging configured successfully!
+2025-06-25 09:02:33,195 - __main__ - INFO - Logging configured successfully!
+2025-06-25 10:14:04,319 - __main__ - INFO - Logging configured successfully!
+2025-06-25 10:14:20,168 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-06-25 10:18:24,862 - __main__ - INFO - Logging configured successfully!
+2025-06-25 10:19:54,614 - __main__ - INFO - Logging configured successfully!
+2025-06-25 10:20:36,492 - __main__ - INFO - 'فولاد' is selected
+2025-06-25 10:20:40,203 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-25 10:20:42,981 - __main__ - INFO - 1404-04-04 to
+2025-06-25 10:20:42,982 - __main__ - INFO - 1399-04-04 from
+2025-06-25 10:21:26,120 - __main__ - INFO - Logging configured successfully!
+2025-06-25 10:23:20,358 - __main__ - INFO - Logging configured successfully!
+2025-06-25 10:25:09,251 - __main__ - INFO - Logging configured successfully!
+2025-06-25 10:28:13,217 - __main__ - INFO - Logging configured successfully!
+2025-06-25 10:29:40,896 - __main__ - INFO - 'فولاد' is selected
+2025-06-25 10:30:00,903 - __main__ - INFO - Logging configured successfully!
+2025-06-25 10:31:11,200 - __main__ - INFO - 'فولاد' is selected
+2025-06-25 10:31:14,907 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-25 10:31:17,698 - __main__ - INFO - 1404-04-04 to
+2025-06-25 10:31:17,699 - __main__ - INFO - 1399-04-04 from
+2025-06-25 10:31:33,110 - __main__ - INFO - Finished all pages!
+2025-06-25 10:32:40,112 - __main__ - INFO - Logging configured successfully!
+2025-06-25 10:33:17,071 - __main__ - INFO - Logging configured successfully!
+2025-06-25 10:35:38,380 - __main__ - INFO - Logging configured successfully!
+2025-06-25 10:36:41,150 - __main__ - INFO - Logging configured successfully!
+2025-06-25 10:37:08,913 - __main__ - INFO - 'فولاد' is selected
+2025-06-25 10:37:12,536 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-25 10:37:14,538 - __main__ - INFO - 1404-04-04 to
+2025-06-25 10:37:14,539 - __main__ - INFO - 1399-04-04 from
+2025-06-25 10:37:30,120 - __main__ - INFO - Finished all pages!
+2025-06-25 10:42:51,726 - __main__ - INFO - Logging configured successfully!
+2025-06-25 11:13:47,249 - __main__ - INFO - Logging configured successfully!
+2025-06-25 11:14:09,073 - __main__ - INFO - 'فولاد' is selected
+2025-06-25 11:14:09,454 - __main__ - INFO - 'همه موارد' is selected
+2025-06-25 11:14:09,455 - __main__ - INFO - 1404-04-04 to
+2025-06-25 11:14:09,455 - __main__ - INFO - 1399-04-04 from
+2025-06-25 11:14:43,296 - __main__ - INFO - Logging configured successfully!
+2025-06-25 11:16:03,820 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-06-25 11:16:56,740 - __main__ - INFO - 'فولاد' is selected
+2025-06-25 11:16:57,134 - __main__ - INFO - 'همه موارد' is selected
+2025-06-25 11:16:57,135 - __main__ - INFO - 1404-04-04 to
+2025-06-25 11:16:57,136 - __main__ - INFO - 1399-04-04 from
+2025-06-25 11:17:23,104 - __main__ - INFO - Logging configured successfully!
+2025-06-25 11:18:29,806 - __main__ - INFO - Logging configured successfully!
+2025-06-25 11:20:15,321 - __main__ - INFO - Logging configured successfully!
+2025-06-25 11:20:46,300 - __main__ - INFO - 'فولاد' is selected
+2025-06-25 11:20:46,670 - __main__ - INFO - 'همه موارد' is selected
+2025-06-25 11:20:46,671 - __main__ - INFO - 1404-04-04 to
+2025-06-25 11:20:46,671 - __main__ - INFO - 1399-04-04 from
+2025-06-25 11:20:47,995 - __main__ - INFO - Finished all pages!
+2025-06-25 11:20:59,433 - __main__ - INFO - Logging configured successfully!
+2025-06-25 11:21:08,930 - __main__ - INFO - 'فولاد' is selected
+2025-06-25 11:21:09,309 - __main__ - INFO - 'همه موارد' is selected
+2025-06-25 11:21:09,310 - __main__ - INFO - 1404-04-04 to
+2025-06-25 11:21:09,310 - __main__ - INFO - 1399-04-04 from
+2025-06-25 11:21:10,670 - __main__ - INFO - Finished all pages!
+2025-06-25 11:21:57,489 - __main__ - INFO - Logging configured successfully!
+2025-06-25 11:23:49,183 - __main__ - INFO - Logging configured successfully!
+2025-06-25 11:25:54,005 - __main__ - INFO - Logging configured successfully!
+2025-06-25 11:30:04,743 - __main__ - INFO - Logging configured successfully!
+2025-06-25 11:44:13,999 - __main__ - INFO - Logging configured successfully!
+2025-06-25 11:45:46,957 - __main__ - INFO - 'فولاد' is selected
+2025-06-25 11:45:47,590 - __main__ - INFO - 'همه موارد' is selected
+2025-06-25 11:45:47,592 - __main__ - INFO - 1404-04-04 to
+2025-06-25 11:45:47,592 - __main__ - INFO - 1399-04-04 from
+2025-06-25 11:45:50,033 - __main__ - INFO - Finished all pages!
+2025-06-25 12:23:17,251 - __main__ - INFO - Logging configured successfully!
+2025-06-25 12:25:28,276 - __main__ - INFO - Logging configured successfully!
+2025-06-25 13:46:26,580 - __main__ - INFO - Logging configured successfully!
+2025-06-25 13:48:46,256 - __main__ - INFO - Logging configured successfully!
+2025-06-25 13:51:01,769 - __main__ - INFO - Logging configured successfully!
+2025-06-25 14:54:52,864 - __main__ - INFO - Logging configured successfully!
+2025-06-25 15:13:55,240 - __main__ - INFO - Logging configured successfully!
+2025-06-25 15:18:50,396 - __main__ - INFO - Logging configured successfully!
+2025-06-25 15:21:33,325 - __main__ - INFO - Logging configured successfully!
+2025-06-25 15:22:53,617 - __main__ - INFO - Logging configured successfully!
+2025-06-25 15:40:26,390 - __main__ - INFO - Logging configured successfully!
+2025-06-25 15:41:11,691 - __main__ - INFO - Logging configured successfully!
+2025-06-25 15:43:22,905 - __main__ - INFO - Logging configured successfully!
+2025-06-25 15:45:09,792 - __main__ - INFO - Logging configured successfully!
+2025-06-25 15:49:01,902 - __main__ - INFO - Logging configured successfully!
+2025-06-26 19:29:25,666 - __main__ - INFO - Logging configured successfully!
+2025-06-26 19:29:43,203 - __main__ - INFO - 'فولاد' is selected
+2025-06-26 19:29:47,082 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-26 19:29:49,084 - __main__ - INFO - 1404-04-05 to
+2025-06-26 19:29:49,085 - __main__ - INFO - 1399-04-05 from
+2025-06-26 19:30:02,429 - __main__ - INFO - Finished all pages!
+2025-06-26 20:12:51,581 - __main__ - INFO - Logging configured successfully!
+2025-06-26 20:13:03,791 - __main__ - INFO - 'فولاد' is selected
+2025-06-26 20:13:07,215 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-26 20:13:09,216 - __main__ - INFO - 1404-04-05 to
+2025-06-26 20:13:09,217 - __main__ - INFO - 1399-04-05 from
+2025-06-26 20:13:23,567 - __main__ - INFO - Finished all pages!
+2025-06-26 20:52:48,672 - __main__ - INFO - Logging configured successfully!
+2025-06-26 20:53:11,133 - __main__ - INFO - 'فولاد' is selected
+2025-06-26 20:53:14,692 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-26 20:53:16,695 - __main__ - INFO - 1404-04-05 to
+2025-06-26 20:53:16,695 - __main__ - INFO - 1399-04-05 from
+2025-06-26 20:53:31,589 - __main__ - INFO - Finished all pages!
+2025-06-26 20:53:39,519 - __main__ - INFO - Logging configured successfully!
+2025-06-26 20:53:53,223 - __main__ - INFO - 'فولاد' is selected
+2025-06-26 20:53:56,771 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-26 20:53:58,773 - __main__ - INFO - 1404-04-05 to
+2025-06-26 20:53:58,773 - __main__ - INFO - 1399-04-05 from
+2025-06-26 20:54:23,694 - __main__ - INFO - Logging configured successfully!
+2025-06-26 20:54:37,479 - __main__ - INFO - 'فولاد' is selected
+2025-06-26 20:54:40,974 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-26 20:54:42,976 - __main__ - INFO - 1404-04-05 to
+2025-06-26 20:54:42,977 - __main__ - INFO - 1399-04-05 from
+2025-06-26 20:55:15,870 - __main__ - INFO - Logging configured successfully!
+2025-06-26 20:55:30,711 - __main__ - INFO - 'فولاد' is selected
+2025-06-26 20:55:34,224 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-26 20:55:41,487 - __main__ - INFO - 1404-04-05 to
+2025-06-26 20:55:41,488 - __main__ - INFO - 1399-04-05 from
+2025-06-26 20:55:56,198 - __main__ - INFO - Finished all pages!
+2025-06-26 21:51:00,598 - __main__ - INFO - Logging configured successfully!
+2025-06-26 21:51:12,772 - __main__ - INFO - 'فولاد' is selected
+2025-06-26 21:51:16,064 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-26 21:51:23,316 - __main__ - INFO - 1404-04-05 to
+2025-06-26 21:51:23,317 - __main__ - INFO - 1399-04-05 from
+2025-06-26 21:52:37,619 - __main__ - INFO - Logging configured successfully!
+2025-06-26 21:52:49,038 - __main__ - INFO - 'فولاد' is selected
+2025-06-26 21:52:52,395 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-26 21:52:59,531 - __main__ - INFO - 1404-04-05 to
+2025-06-26 21:52:59,531 - __main__ - INFO - 1399-04-05 from
+2025-06-26 21:53:58,215 - __main__ - INFO - Logging configured successfully!
+2025-06-26 21:54:02,443 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-06-26 21:54:12,952 - __main__ - INFO - Logging configured successfully!
+2025-06-26 21:54:25,487 - __main__ - INFO - 'فولاد' is selected
+2025-06-26 21:54:28,727 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-26 21:54:35,857 - __main__ - INFO - 1404-04-05 to
+2025-06-26 21:54:35,857 - __main__ - INFO - 1399-04-05 from
+2025-06-26 22:04:11,198 - __main__ - INFO - Logging configured successfully!
+2025-06-26 22:04:22,504 - __main__ - INFO - 'فولاد' is selected
+2025-06-26 22:04:25,816 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-06-26 22:04:32,950 - __main__ - INFO - 1404-04-05 to
+2025-06-26 22:04:32,951 - __main__ - INFO - 1399-04-05 from
+2025-06-26 22:04:47,084 - __main__ - INFO - Finished all pages!
+2025-07-05 14:25:58,795 - __main__ - INFO - Logging configured successfully!
+2025-07-05 14:27:26,413 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-07-05 14:27:40,991 - __main__ - INFO - 'فولاد' is selected
+2025-07-05 14:27:44,629 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-07-05 14:27:51,943 - __main__ - INFO - 1404-04-14 to
+2025-07-05 14:27:51,943 - __main__ - INFO - 1399-04-14 from
+2025-07-05 14:36:12,732 - __main__ - INFO - Logging configured successfully!
+2025-07-05 14:36:28,658 - __main__ - INFO - Logging configured successfully!
+2025-07-05 14:36:50,691 - __main__ - INFO - Logging configured successfully!
+2025-07-05 14:37:03,876 - __main__ - INFO - 'فولاد' is selected
+2025-07-05 14:37:07,512 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-07-05 14:37:14,843 - __main__ - INFO - 1404-04-14 to
+2025-07-05 14:37:14,844 - __main__ - INFO - 1399-04-14 from
+2025-07-05 14:43:04,101 - __main__ - INFO - Logging configured successfully!
+2025-07-05 14:43:52,597 - __main__ - INFO - Logging configured successfully!
+2025-07-05 14:44:08,022 - __main__ - INFO - Logging configured successfully!
+2025-07-05 14:44:26,186 - __main__ - INFO - Logging configured successfully!
+2025-07-05 14:44:41,555 - __main__ - INFO - Logging configured successfully!
+2025-07-05 14:44:52,174 - __main__ - INFO - 'فولاد' is selected
+2025-07-05 14:44:55,474 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-07-05 14:45:02,625 - __main__ - INFO - 1404-04-14 to
+2025-07-05 14:45:02,626 - __main__ - INFO - 1399-04-14 from
+2025-07-05 15:12:03,478 - __main__ - INFO - Logging configured successfully!
+2025-07-05 15:12:21,892 - __main__ - INFO - Logging configured successfully!
+2025-07-05 15:12:33,040 - __main__ - INFO - 'فولاد' is selected
+2025-07-05 15:12:36,385 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
+2025-07-05 15:12:43,543 - __main__ - INFO - 1404-04-14 to
+2025-07-05 15:12:43,568 - __main__ - INFO - 1399-04-14 from

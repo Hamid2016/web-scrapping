@@ -1,0 +1,334 @@
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta name="Excel Workbook Frameset">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="File-List" href="filelist.xml">
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+  <x:ExcelWorksheet>
+  <x:WorksheetOptions>
+  <x:Selected/>
+  <x:DisplayRightToLeft/>
+  </x:WorksheetOptions>
+  </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+<body>
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link id="Main-File" rel="Main-File" href="../WorkBook.htm">
+  <link rel="File-List" href="filelist.xml">
+<style>
+table { font-family:Tahoma; font-size: 8pt; }
+table td { text-align: center; border: 1px solid #ddd;}
+table th { text-align: center; background-color: #0197c8; color: white; font-weight:bold mso-number-format:\@; border: 1px solid #ddd; }
+table tr.ComputationalRow { background-color: #fee2a0 }
+.description, .DescriptionColumn { text-align: right; }
+</style>
+</head>
+<body>
+<div>
+<div>
+<hr>
+<h3>
+گزارش فعالیت ماهانه
+</h3>
+<hr>
+</div>
+<br>
+<head id="ctl00_Head1"><title>
+	
+</title>
+   
+    <!--[if lt IE 7]>
+	<link href="../css/IE6_new_style.css" type="text/css" rel="stylesheet" />
+	<![endif]-->
+
+    
+
+    
+
+    
+
+    
+
+    
+<meta http-equiv="Cache - Control" content="no - cache, no - store, must - revalidate">
+<meta http-equiv="Pragma" content="no - cache">
+<meta http-equiv="Expires" content="0"></head>
+<body>
+    <form name="aspnetForm" method="post" action="" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+
+	
+	
+</div>
+    
+    
+    
+    <div class="clear" style="height: 15px;">
+    </div>
+    
+    
+<style type="text/css">
+    .label
+    {
+        font-size: 8pt;
+        font-family: tahoma;
+    }
+</style>
+<div id="ctl00_ucSignature1_pnlMain" class="main_note" style="background-color:#C1E2B4;">
+    <div class="verify">
+       
+    
+    </div>
+    <div class="noteholder">
+        
+        
+        <div class="clear"></div>
+    </div>
+    <div class="clear">
+    </div>
+</div>
+
+    <div class="clear" style="height: 5px;">
+    </div>
+   <div class="errorHolder">
+        <span id="ctl00_lblError" class="Error" style="color:DarkRed;font-weight:bold;"></span>
+    </div>
+   
+   
+   <div class="note_price_Excel">
+    
+    </div>
+    <div class="clear">
+    </div>
+    
+    
+
+    <div style="width: 90%; margin: 0 auto;">
+        <div>
+            
+
+<br>
+
+
+        </div>
+        <span id="ctl00_cphBody_lblError"></span>
+
+        
+                <div id="ctl00_cphBody_ucProduct2_pnlProduction">
+	
+
+        
+        
+
+        
+
+        <div id="ctl00_cphBody_ucProduct2_divProduction" align="right" includeinexcel="true" style="overflow-x:auto;">
+            <table id="ctl00_cphBody_ucProduct2_Table1" cellpadding="0" cellspacing="0" width="200%" align="right" dir="rtl">
+		<tbody><tr>
+			<td>
+                        
+                    </td>
+		</tr>
+		<tr>
+			<td>
+                        <table class="gv" style="text-align: center; width: 100%;">
+                            <tbody><tr>
+                                <th colspan="2" style="width: 14%; height: 30px; text-align: center;">شرح</th>
+                                <th colspan="4" style="width: 18%; text-align: center;" class="non-first-period">
+                                    <span id="ctl00_cphBody_ucProduct2_lblPrevMonthEndToDateCaption">از ابتدای سال مالی تا پایان مورخ <bdo dir="ltr">1398/06/31</bdo></span>
+                                </th>
+                                <th colspan="3" style="width: 14%; text-align: center;" class="non-first-period">
+                                    <span id="ctl00_cphBody_ucProduct2_lblReformCaption">اصلاحات</span>
+                                </th>
+                                <th colspan="4" style="width: 18%; text-align: center;" class="non-first-period">
+                                    <span id="ctl00_cphBody_ucProduct2_lblPrevYearEndToDateCaption">از ابتدای سال مالی تا پایان مورخ <bdo dir="ltr">1398/06/31</bdo> - اصلاح شده</span>
+                                </th>
+                                <th colspan="4" style="width: 18%; text-align: center;">
+                                    <span id="ctl00_cphBody_ucProduct2_lblMonthEndToDateCaption">دوره یک ماهه منتهی به <bdo dir="ltr">1398/07/30</bdo></span>
+                                </th>
+                                <th colspan="4" style="width: 18%; text-align: center;">
+                                    <span id="ctl00_cphBody_ucProduct2_lblYearEndToDateCaption">از ابتدای سال مالی تا پایان مورخ <bdo dir="ltr">1398/07/30</bdo></span>
+                                </th>
+
+                            </tr>
+                            <tr>
+                                <th align="center" style="width: 10%">
+                                    <span id="ctl00_cphBody_ucProduct2_lblProductNameCaption">نام محصول</span>
+                                </th>
+                                <th align="center" style="width: 3%">
+                                    <span id="ctl00_cphBody_ucProduct2_lblProductUnitCaption">واحد</span>
+                                </th>
+                                <!---------------------------------------------------------------------------------------------->
+                                <th style="width: 3.5%" class="non-first-period">
+                                    <span id="ctl00_cphBody_ucProduct2_lblPrevTotalProductionYearCaption">مقدار/تعداد تولید</span>
+                                </th>
+                                <th style="width: 3.5%" class="non-first-period">
+                                    <span id="ctl00_cphBody_ucProduct2_lblPrevTotalSalesYearCaption">مقدار/تعداد فروش</span>
+                                </th>
+                                <th style="width: 6.75%" class="non-first-period">
+                                    <span id="ctl00_cphBody_ucProduct2_lblPrevSalesRateYearCaption">نرخ فروش (ریال)</span>
+                                </th>
+                                <th style="width: 5%" class="non-first-period">
+                                    <span id="ctl00_cphBody_ucProduct2_lblPrevSalesAmountYearCaption">مبلغ فروش (میلیون ریال)</span>
+                                </th>
+                                <!---------------------------------------------------------------------------------------------->
+                                <th style="width: 3.5%" class="non-first-period">
+                                    <span id="ctl00_cphBody_ucProduct2_lblTotalProductionModifiedCaption">مقدار/تعداد تولید</span>
+                                </th>
+                                <th style="width: 3.5%" class="non-first-period">
+                                    <span id="ctl00_cphBody_ucProduct2_lblTotalSalesModifiedCaption">مقدار/تعداد فروش</span>
+                                </th>
+                                <th style="width: 5%" class="non-first-period">
+                                    <span id="ctl00_cphBody_ucProduct2_lblSalesAmountModifiedCaption">مبلغ فروش (میلیون ریال)</span>
+                                </th>
+                                <!---------------------------------------------------------------------------------------------->
+                                <th style="width: 3.5%" class="non-first-period">
+                                    <span id="ctl00_cphBody_ucProduct2_lblPrevModifiedTotalProductionYearCaption">مقدار/تعداد تولید</span>
+                                </th>
+                                <th style="width: 3.5%" class="non-first-period">
+                                    <span id="ctl00_cphBody_ucProduct2_lblPrevModifiedTotalSalesYearCaption">مقدار/تعداد فروش</span>
+                                </th>
+                                <th style="width: 6.75%" class="non-first-period">
+                                    <span id="ctl00_cphBody_ucProduct2_lblPrevModifiedSalesRateYearCaption">نرخ فروش (ریال)</span>
+                                </th>
+                                <th style="width: 5%" class="non-first-period">
+                                    <span id="ctl00_cphBody_ucProduct2_lblPrevModifiedSalesAmountYearCaption">مبلغ فروش (میلیون ریال)</span>
+                                </th>
+                                <!---------------------------------------------------------------------------------------------->
+                                <th align="center" style="width: 3.5%">
+                                    <span id="ctl00_cphBody_ucProduct2_lblTotalProdctionMonthCaption">مقدار/تعداد تولید</span>
+                                </th>
+                                <th align="center" style="width: 3.5%">
+                                    <span id="ctl00_cphBody_ucProduct2_lblTotalSalesMonthCaption">مقدار/تعداد فروش</span>
+                                </th>
+                                <th align="center" style="width: 6.75%">
+                                    <span id="ctl00_cphBody_ucProduct2_lblSalesRateMonthCaption">نرخ فروش (ریال)</span>
+                                </th>
+                                <th align="center" style="width: 5%">
+                                    <span id="ctl00_cphBody_ucProduct2_lblSalesAmountMonthCaption">مبلغ فروش (میلیون ریال)</span>
+                                </th>
+                                <!---------------------------------------------------------------------------------------------->
+                                <th align="center" style="width: 3.5%">
+                                    <span id="ctl00_cphBody_ucProduct2_lblTotalProductionYearCaption">مقدار/تعداد تولید</span>
+                                </th>
+                                <th align="center" style="width: 3.5%">
+                                    <span id="ctl00_cphBody_ucProduct2_lblTotalSalesYearCaption">مقدار/تعداد فروش</span>
+                                </th>
+                                <th align="center" style="width: 6.75%">
+                                    <span id="ctl00_cphBody_ucProduct2_lblSalesRateYearCaption">نرخ فروش (ریال)</span>
+                                </th>
+                                <th align="center" style="width: 5%">
+                                    <span id="ctl00_cphBody_ucProduct2_lblSalesAmountYearCaption">مبلغ فروش (میلیون ریال)</span>
+                                </th>
+
+                            </tr>
+                        </tbody></table>
+                    </td>
+		</tr>
+		<tr>
+			<td>
+                        <div>
+                            <div>
+				<table class="gv" cellspacing="0" rules="all" border="1" id="ctl00_cphBody_ucProduct2_dgProduction" style="border-style:Solid;width:100%;border-collapse:collapse;">
+					<tbody><tr>
+						<td align="center" style="width:10%;">محصولات گرم</td><td align="center" style="width:3%;">هزار تن</td><td align="center" style="width:3.5%;">۲,۵۰۰</td><td align="center" style="width:3.5%;">۲,۴۳۱</td><td align="center" style="width:6.75%;">۵۰,۲۰۳,۵۶۹,۷۲۴</td><td align="center" style="width:5%;">۱۲۲,۰۴۴,۸۷۸</td><td align="center" style="width:3.5%;">(۱)</td><td align="center" style="width:3.5%;">۰</td><td align="center" style="width:5%;">۰</td><td align="center" style="width:3.5%;">۲,۴۹۹</td><td align="center" style="width:3.5%;">۲,۴۳۱</td><td align="center" style="width:6.75%;">۵۰,۲۰۳,۵۶۹,۷۲۴</td><td align="center" style="width:5%;">۱۲۲,۰۴۴,۸۷۸</td><td align="center" style="width:3.5%;">۳۴۰</td><td align="center" style="width:3.5%;">۳۹۸</td><td align="center" style="width:6.75%;">۴۹,۰۷۹,۰۰۲,۵۱۳</td><td align="center" style="width:5%;">۱۹,۵۳۳,۴۴۳</td><td align="center" style="width:3.5%;">۲,۸۳۹</td><td align="center" style="width:3.5%;">۲,۸۲۹</td><td align="center" style="width:6.75%;">۵۰,۰۴۵,۳۵۹,۱۳۸</td><td align="center" style="width:5%;">۱۴۱,۵۷۸,۳۲۱</td>
+					</tr><tr>
+						<td align="center" style="width:10%;">محصولات سرد</td><td align="center" style="width:3%;">هزار تن </td><td align="center" style="width:3.5%;">۷۵۲</td><td align="center" style="width:3.5%;">۷۲۶</td><td align="center" style="width:6.75%;">۵۵,۲۵۴,۸۵۹,۵۰۴</td><td align="center" style="width:5%;">۴۰,۱۱۵,۰۲۸</td><td align="center" style="width:3.5%;">۰</td><td align="center" style="width:3.5%;">۰</td><td align="center" style="width:5%;">۰</td><td align="center" style="width:3.5%;">۷۵۲</td><td align="center" style="width:3.5%;">۷۲۶</td><td align="center" style="width:6.75%;">۵۵,۲۵۴,۸۵۹,۵۰۴</td><td align="center" style="width:5%;">۴۰,۱۱۵,۰۲۸</td><td align="center" style="width:3.5%;">۱۱۵</td><td align="center" style="width:3.5%;">۱۲۳</td><td align="center" style="width:6.75%;">۵۸,۱۷۲,۰۲۴,۳۹۰</td><td align="center" style="width:5%;">۷,۱۵۵,۱۵۹</td><td align="center" style="width:3.5%;">۸۶۷</td><td align="center" style="width:3.5%;">۸۴۹</td><td align="center" style="width:6.75%;">۵۵,۶۷۷,۴۸۷,۶۳۳</td><td align="center" style="width:5%;">۴۷,۲۷۰,۱۸۷</td>
+					</tr><tr>
+						<td align="center" style="width:10%;">محصولات پوشش دار</td><td align="center" style="width:3%;">هزار تن </td><td align="center" style="width:3.5%;">۱۴۳</td><td align="center" style="width:3.5%;">۱۳۵</td><td align="center" style="width:6.75%;">۱۰۶,۴۹۶,۶۲۹,۶۳۰</td><td align="center" style="width:5%;">۱۴,۳۷۷,۰۴۵</td><td align="center" style="width:3.5%;">(۱)</td><td align="center" style="width:3.5%;">۰</td><td align="center" style="width:5%;">۰</td><td align="center" style="width:3.5%;">۱۴۲</td><td align="center" style="width:3.5%;">۱۳۵</td><td align="center" style="width:6.75%;">۱۰۶,۴۹۶,۶۲۹,۶۳۰</td><td align="center" style="width:5%;">۱۴,۳۷۷,۰۴۵</td><td align="center" style="width:3.5%;">۲۴</td><td align="center" style="width:3.5%;">۲۳</td><td align="center" style="width:6.75%;">۱۱۸,۴۷۳,۳۴۷,۸۲۶</td><td align="center" style="width:5%;">۲,۷۲۴,۸۸۷</td><td align="center" style="width:3.5%;">۱۶۶</td><td align="center" style="width:3.5%;">۱۵۸</td><td align="center" style="width:6.75%;">۱۰۸,۲۴۰,۰۷۵,۹۴۹</td><td align="center" style="width:5%;">۱۷,۱۰۱,۹۳۲</td>
+					</tr><tr>
+						<td align="center" style="width:10%;">ساير</td><td align="center" style="width:3%;">هزار تن </td><td align="center" style="width:3.5%;">۷۲۵</td><td align="center" style="width:3.5%;">۵۸۲</td><td align="center" style="width:6.75%;">۴۰,۸۹۴,۳۹۶,۹۰۷</td><td align="center" style="width:5%;">۲۳,۸۰۰,۵۳۹</td><td align="center" style="width:3.5%;">۰</td><td align="center" style="width:3.5%;">۰</td><td align="center" style="width:5%;">۰</td><td align="center" style="width:3.5%;">۷۲۵</td><td align="center" style="width:3.5%;">۵۸۲</td><td align="center" style="width:6.75%;">۴۰,۸۹۴,۳۹۶,۹۰۷</td><td align="center" style="width:5%;">۲۳,۸۰۰,۵۳۹</td><td align="center" style="width:3.5%;">۱۱۸</td><td align="center" style="width:3.5%;">۱۱۴</td><td align="center" style="width:6.75%;">۴۰,۹۶۸,۹۴۷,۳۶۸</td><td align="center" style="width:5%;">۴,۶۷۰,۴۶۰</td><td align="center" style="width:3.5%;">۸۴۳</td><td align="center" style="width:3.5%;">۶۹۶</td><td align="center" style="width:6.75%;">۴۰,۹۰۶,۶۰۷,۷۵۹</td><td align="center" style="width:5%;">۲۸,۴۷۰,۹۹۹</td>
+					</tr><tr class="lightBlueBg">
+						<td align="center" style="width:10%;">جمع</td><td align="center" style="width:3%;">&nbsp;</td><td align="center" style="width:3.5%;">&nbsp;</td><td align="center" style="width:3.5%;">&nbsp;</td><td align="center" style="width:6.75%;">&nbsp;</td><td align="center" style="width:5%;">۲۰۰,۳۳۷,۴۹۰</td><td align="center" style="width:3.5%;">&nbsp;</td><td align="center" style="width:3.5%;">&nbsp;</td><td align="center" style="width:5%;">۰</td><td align="center" style="width:3.5%;">&nbsp;</td><td align="center" style="width:3.5%;">&nbsp;</td><td align="center" style="width:6.75%;">&nbsp;</td><td align="center" style="width:5%;">۲۰۰,۳۳۷,۴۹۰</td><td align="center" style="width:3.5%;">&nbsp;</td><td align="center" style="width:3.5%;">&nbsp;</td><td align="center" style="width:6.75%;">&nbsp;</td><td align="center" style="width:5%;">۳۴,۰۸۳,۹۴۹</td><td align="center" style="width:3.5%;">&nbsp;</td><td align="center" style="width:3.5%;">&nbsp;</td><td align="center" style="width:6.75%;">&nbsp;</td><td align="center" style="width:5%;">۲۳۴,۴۲۱,۴۳۹</td>
+					</tr>
+				</tbody></table>
+			</div>
+                        </div>
+                    </td>
+		</tr>
+	</tbody></table>
+	
+            
+        </div>
+    
+</div>
+
+            
+        <div class="clear" style="height: 20px;"></div>
+        
+        <fieldset>
+            <legend>
+                <span id="ctl00_cphBody_lblCorrectionComment" style="color:graytext;font-size:Small;">کادر توضیحات در مورد اصلاحات</span></legend>
+            <br>
+            <span id="txtCorrectionComment">.                                                  .
+</span>
+        </fieldset>
+        
+        <div class="clear" style="height: 20px;"></div>
+        <fieldset>
+            <legend>
+                <span id="ctl00_cphBody_lblDescMonth" style="color:graytext;font-size:Small;">کادر توضیحی مربوط به اطلاعات دوره 1 ماهه منتهی به 1398/07/30</span></legend>
+            <br>
+            <span id="txbDescMonth"></span>
+        </fieldset>
+        <div class="clear" style="height: 20px;"></div>
+        <fieldset>
+            <legend>
+                <span id="ctl00_cphBody_lblDescYear" style="color:graytext;font-size:Small;">کادر توضیحی مربوط به اطلاعات تجمعی از ابتدای سال تا پایان تاریخ 1398/07/30</span></legend>
+            <br>
+            <span id="txbDescYear"></span>
+        </fieldset>
+        <div class="clear" style="height: 20px;">
+        </div>
+        <div style="width: 90%; margin-left: auto; margin-right: auto;">
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+</form>
+
+</body>
+</div>
+<br>
+</body>
+</html>
+</body>
+</html>
+
+
+
+
