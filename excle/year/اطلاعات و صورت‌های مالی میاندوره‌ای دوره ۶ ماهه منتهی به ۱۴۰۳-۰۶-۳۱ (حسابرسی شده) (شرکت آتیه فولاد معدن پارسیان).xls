@@ -1,0 +1,1458 @@
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta name="Excel Workbook Frameset">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="File-List" href="filelist.xml">
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+  <x:ExcelWorksheet>
+  <x:WorksheetOptions>
+  <x:Selected/>
+  <x:DisplayRightToLeft/>
+  </x:WorksheetOptions>
+  </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+<body>
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link id="Main-File" rel="Main-File" href="../WorkBook.htm">
+  <link rel="File-List" href="filelist.xml">
+<style>
+table { font-family:Tahoma; font-size: 8pt; }
+table td { text-align: center; border: 1px solid #ddd;}
+table th { text-align: center; background-color: #0197c8; color: white; font-weight:bold mso-number-format:\@; border: 1px solid #ddd; }
+table tr.ComputationalRow { background-color: #fee2a0 }
+.description, .DescriptionColumn { text-align: right; }
+</style>
+</head>
+<body>
+<div>
+<div>
+<hr>
+<h3>
+صورت سود و زیان
+</h3>
+<hr>
+</div>
+<br>
+<head id="ctl00_Head1"><title>
+	صورت‌های مالی میاندوره‌ای 6 ماهه منتهی به  1403/06/31 (حسابرسی شده)
+</title>
+    <!--[if lt IE 7]>
+	<link href="../css/IE6_new_style.css" type="text/css" rel="stylesheet" />
+	<![endif]-->
+
+    
+
+    
+
+    
+
+    
+
+    
+<meta http-equiv="Cache - Control" content="no - cache, no - store, must - revalidate">
+<meta http-equiv="Pragma" content="no - cache">
+<meta http-equiv="Expires" content="0"></head>
+<body>
+    <form name="aspnetForm" method="post" action="" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+
+	
+	
+	
+</div>
+    
+    
+    
+    <div class="clear" style="height: 15px;">
+    </div>
+    
+    
+<style type="text/css">
+    .label
+    {
+        font-size: 8pt;
+        font-family: tahoma;
+    }
+</style>
+<div id="ctl00_ucSignature1_pnlMain" class="main_note" style="background-color:#C1E2B4;">
+    <div class="verify">
+       
+    
+    </div>
+    <div class="noteholder">
+        
+        
+        <div class="clear"></div>
+    </div>
+    <div class="clear">
+    </div>
+</div>
+
+    <div class="clear" style="height: 5px;">
+    </div>
+   <div class="errorHolder">
+        <span id="ctl00_lblError" class="Error" style="color:DarkRed;font-weight:bold;">عملیات با اشکال مواجه گردید. لطفا مدیر سیستم را در جریان قرار دهید</span>
+    </div>
+   
+   <div id="ctl00_divPriceNote" class="note_price">
+        <p id="ctl00_pPriceNote">کلیه مبالغ درج شده به میلیون ریال می باشد</p>
+    </div>
+   <div class="note_price_Excel">
+    
+    <a target="_blank" href="http://excel.codal.ir//service/excel/?letterSerial=s5vWNtH6gsQQQaQQQC%2bMQQQaQQQDkqc5yg%3d%3d&amp;sheetId=1&amp;languageId=0">    </a></div>
+    <div class="clear">
+    </div>
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <style type="text/css">
+        .noWrap
+        {
+            white-space: nowrap;
+        }
+        .colorWhite
+        {
+        	color: white;
+        }
+        .ui-tinytbl-th
+        {
+            background-color: #007ec8;
+        }
+        .GridHeader th
+        {
+        	padding: 0;
+        }
+        .table_wrapper td
+        {
+        	/* IE7 and below */
+        	*padding: 0;
+        }
+        .wrapper
+        {
+        	width: 90%;
+        	margin: 0 auto;
+        }
+        .ui-tinytbl-lastrow, .ui-tinytbl-lastrow th
+        {
+            border-bottom: none;
+        }
+        .ui-tinytbl-firstcol, .firstcol
+        {
+        	border-right: solid 1px #BCBCBC;
+        }
+        .printButton
+        {
+        	float: left;
+        	*margin-top: -15px;
+        }
+        .Hidden
+        {
+        	display: none;
+        }
+    </style>
+    
+    
+    
+    
+    
+
+<br>
+
+
+    <div style="clear: both;"></div>
+    <div id="ctl00_cphBody_UpdatePanel1">
+	
+            
+                    
+
+
+<!--[if lt IE 7]>
+<link href="../css/IE6_html_format_style.css" type="text/css" rel="stylesheet" />
+<![endif]-->
+
+
+
+
+
+<div class="table_holder">
+	<div class="table_wrapper">
+	
+		<div>
+
+	</div>
+		
+		<div includeinexcel="true">
+			<div>
+
+	</div>
+		</div>
+	</div>
+</div>
+<div id="ctl00_cphBody_ucSFinancialPosition_divCoverTextWrapper" style="width: 90%; margin: 5px auto; padding-right: 1px;">
+    <div style="border: 1px solid #bcbcbc; padding-right: 5px;">
+        <span id="ctl00_cphBody_ucSFinancialPosition_lblCoverTextCaption" style="font-size:Small;">سایر اطلاعات:</span>
+        <br>
+        <span id="ctl00_cphBody_ucSFinancialPosition_lblCoverText" class="CoverText" style="color:#0000C0;">lblCoverText</span>
+    </div>
+</div>
+
+
+
+
+                
+        
+</div>
+    <div class="clear height20">
+    </div>
+    <div class="wrapper">
+        <input name="ctl00$cphBody$btnCancel" type="button" id="ctl00_cphBody_btnCancel" class="pBtnOff" onmouseout="this.className='pBtnOff'" onmouseover="this.className='pBtnOn'" style="width: 80px; height: 22px; float: left;" value="انصراف" onclick="window.close();">
+    </div>
+
+    
+
+
+
+
+
+
+</form>
+
+</body>
+</div>
+<br>
+<div>
+<div>
+<hr>
+<h3>
+صورت سود و زیان جامع
+</h3>
+<hr>
+</div>
+<br>
+<head id="ctl00_Head1"><title>
+	صورت‌های مالی میاندوره‌ای 6 ماهه منتهی به  1403/06/31 (حسابرسی شده)
+</title>
+    <!--[if lt IE 7]>
+	<link href="../css/IE6_new_style.css" type="text/css" rel="stylesheet" />
+	<![endif]-->
+
+    
+
+    
+
+    
+
+    
+
+    
+<meta http-equiv="Cache - Control" content="no - cache, no - store, must - revalidate">
+<meta http-equiv="Pragma" content="no - cache">
+<meta http-equiv="Expires" content="0"></head>
+<body>
+    <form name="aspnetForm" method="post" action="" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+
+	
+	
+	
+</div>
+    
+    
+    
+    <div class="clear" style="height: 15px;">
+    </div>
+    
+    
+<style type="text/css">
+    .label
+    {
+        font-size: 8pt;
+        font-family: tahoma;
+    }
+</style>
+<div id="ctl00_ucSignature1_pnlMain" class="main_note" style="background-color:#C1E2B4;">
+    <div class="verify">
+       
+    
+    </div>
+    <div class="noteholder">
+        
+        
+        <div class="clear"></div>
+    </div>
+    <div class="clear">
+    </div>
+</div>
+
+    <div class="clear" style="height: 5px;">
+    </div>
+   <div class="errorHolder">
+        <span id="ctl00_lblError" class="Error" style="color:DarkRed;font-weight:bold;">عملیات با اشکال مواجه گردید. لطفا مدیر سیستم را در جریان قرار دهید</span>
+    </div>
+   
+   <div id="ctl00_divPriceNote" class="note_price">
+        <p id="ctl00_pPriceNote">کلیه مبالغ درج شده به میلیون ریال می باشد</p>
+    </div>
+   <div class="note_price_Excel">
+    <input type="image" name="ctl00$ibtnExport" id="ctl00_ibtnExport" class="Hidden" src="../Images/ExportToExcel.jpg" alt="Export To Excel" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ibtnExport&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" style="height:20px;border-width:0px;">
+    </div>
+    <div class="clear">
+    </div>
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <style type="text/css">
+        .noWrap
+        {
+            white-space: nowrap;
+        }
+        .colorWhite
+        {
+        	color: white;
+        }
+        .ui-tinytbl-th
+        {
+            background-color: #007ec8;
+        }
+        .GridHeader th
+        {
+        	padding: 0;
+        }
+        .table_wrapper td
+        {
+        	/* IE7 and below */
+        	*padding: 0;
+        }
+        .wrapper
+        {
+        	width: 90%;
+        	margin: 0 auto;
+        }
+        .ui-tinytbl-lastrow, .ui-tinytbl-lastrow th
+        {
+            border-bottom: none;
+        }
+        .ui-tinytbl-firstcol, .firstcol
+        {
+        	border-right: solid 1px #BCBCBC;
+        }
+        .printButton
+        {
+        	float: left;
+        	*margin-top: -15px;
+        }
+        .Hidden
+        {
+        	display: none;
+        }
+    </style>
+    
+    
+    
+    
+    
+
+<br>
+
+
+    <div style="clear: both;"></div>
+    <div id="ctl00_cphBody_UpdatePanel1">
+	
+            
+                    
+
+
+<!--[if lt IE 7]>
+<link href="../css/IE6_html_format_style.css" type="text/css" rel="stylesheet" />
+<![endif]-->
+
+
+
+
+
+<div class="table_holder">
+	<div class="table_wrapper">
+	
+		<div>
+
+	</div>
+		
+		<div includeinexcel="true">
+			<div>
+
+	</div>
+		</div>
+	</div>
+</div>
+<div id="ctl00_cphBody_ucSFinancialPosition_divCoverTextWrapper" style="width: 90%; margin: 5px auto; padding-right: 1px;">
+    <div style="border: 1px solid #bcbcbc; padding-right: 5px;">
+        <span id="ctl00_cphBody_ucSFinancialPosition_lblCoverTextCaption" style="font-size:Small;">سایر اطلاعات:</span>
+        <br>
+        <span id="ctl00_cphBody_ucSFinancialPosition_lblCoverText" class="CoverText" style="color:#0000C0;">lblCoverText</span>
+    </div>
+</div>
+
+
+
+
+                
+        
+</div>
+    <div class="clear height20">
+    </div>
+    <div class="wrapper">
+        <input name="ctl00$cphBody$btnCancel" type="button" id="ctl00_cphBody_btnCancel" class="pBtnOff" onmouseout="this.className='pBtnOff'" onmouseover="this.className='pBtnOn'" style="width: 80px; height: 22px; float: left;" value="انصراف" onclick="window.close();">
+    </div>
+
+    
+
+
+
+
+
+
+</form>
+
+</body>
+</div>
+<br>
+<div>
+<div>
+<hr>
+<h3>
+صورت وضعیت مالی
+</h3>
+<hr>
+</div>
+<br>
+<head id="ctl00_Head1"><title>
+
+</title>
+    <!--[if lt IE 7]>
+	<link href="../css/IE6_new_style.css" type="text/css" rel="stylesheet" />
+	<![endif]-->
+
+    
+
+    
+
+    
+
+    
+
+    
+<meta http-equiv="Cache - Control" content="no - cache, no - store, must - revalidate">
+<meta http-equiv="Pragma" content="no - cache">
+<meta http-equiv="Expires" content="0"></head>
+<body>
+    <form name="aspnetForm" method="post" action="" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+
+	
+	
+	
+</div>
+    
+    
+    
+    <div class="clear" style="height: 15px;">
+    </div>
+    
+    
+<style type="text/css">
+    .label
+    {
+        font-size: 8pt;
+        font-family: tahoma;
+    }
+</style>
+<div id="ctl00_ucSignature1_pnlMain" class="main_note" style="background-color:#C1E2B4;">
+    <div class="verify">
+       
+    
+    </div>
+    <div class="noteholder">
+        
+        
+        <div class="clear"></div>
+    </div>
+    <div class="clear">
+    </div>
+</div>
+
+    <div class="clear" style="height: 5px;">
+    </div>
+   <div class="errorHolder">
+        <span id="ctl00_lblError" class="Error" style="color:DarkRed;font-weight:bold;">عملیات با اشکال مواجه گردید. لطفا مدیر سیستم را در جریان قرار دهید</span>
+    </div>
+   
+   <div id="ctl00_divPriceNote" class="note_price">
+        <p id="ctl00_pPriceNote">کلیه مبالغ درج شده به میلیون ریال می باشد</p>
+    </div>
+   <div class="note_price_Excel">
+    
+    <a target="_blank" href="http://excel.codal.ir//service/excel/?letterSerial=s5vWNtH6gsQQQaQQQC%2bMQQQaQQQDkqc5yg%3d%3d&amp;sheetId=0&amp;languageId=0">    </a></div>
+    <div class="clear">
+    </div>
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <style type="text/css">
+        .noWrap
+        {
+            white-space: nowrap;
+        }
+        .colorWhite
+        {
+        	color: white;
+        }
+        .ui-tinytbl-th
+        {
+            background-color: #007ec8;
+        }
+        .GridHeader th
+        {
+        	padding: 0;
+        }
+        .table_wrapper td
+        {
+        	/* IE7 and below */
+        	*padding: 0;
+        }
+        .wrapper
+        {
+        	width: 90%;
+        	margin: 0 auto;
+        }
+        .ui-tinytbl-lastrow, .ui-tinytbl-lastrow th
+        {
+            border-bottom: none;
+        }
+        .ui-tinytbl-firstcol, .firstcol
+        {
+        	border-right: solid 1px #BCBCBC;
+        }
+        .printButton
+        {
+        	float: left;
+        	*margin-top: -15px;
+        }
+        .Hidden
+        {
+        	display: none;
+        }
+    </style>
+    
+    
+    
+    
+    
+
+<br>
+
+
+    <div style="clear: both;"></div>
+    <div id="ctl00_cphBody_UpdatePanel1">
+	
+            
+                    
+
+
+<!--[if lt IE 7]>
+<link href="../css/IE6_html_format_style.css" type="text/css" rel="stylesheet" />
+<![endif]-->
+
+
+
+
+
+<div class="table_holder">
+	<div class="table_wrapper">
+	
+		<div>
+
+	</div>
+		
+		<div includeinexcel="true">
+			<div>
+
+	</div>
+		</div>
+	</div>
+</div>
+<div id="ctl00_cphBody_ucSFinancialPosition_divCoverTextWrapper" style="width: 90%; margin: 5px auto; padding-right: 1px;">
+    <div style="border: 1px solid #bcbcbc; padding-right: 5px;">
+        <span id="ctl00_cphBody_ucSFinancialPosition_lblCoverTextCaption" style="font-size:Small;">سایر اطلاعات:</span>
+        <br>
+        <span id="ctl00_cphBody_ucSFinancialPosition_lblCoverText" class="CoverText" style="color:#0000C0;">lblCoverText</span>
+    </div>
+</div>
+
+
+
+
+                
+        
+</div>
+    <div class="clear height20">
+    </div>
+    <div class="wrapper">
+        <input name="ctl00$cphBody$btnCancel" type="button" id="ctl00_cphBody_btnCancel" class="pBtnOff" onmouseout="this.className='pBtnOff'" onmouseover="this.className='pBtnOn'" style="width: 80px; height: 22px; float: left;" value="انصراف" onclick="window.close();">
+    </div>
+
+    
+
+
+
+
+
+
+</form>
+
+</body>
+</div>
+<br>
+<div>
+<div>
+<hr>
+<h3>
+صورت تغییرات در حقوق مالکانه
+</h3>
+<hr>
+</div>
+<br>
+<head id="ctl00_Head1"><title>
+	صورت‌های مالی میاندوره‌ای 6 ماهه منتهی به  1403/06/31 (حسابرسی شده)
+</title>
+    <!--[if lt IE 7]>
+	<link href="../css/IE6_new_style.css" type="text/css" rel="stylesheet" />
+	<![endif]-->
+
+    
+
+    
+
+    
+
+    
+
+    
+<meta http-equiv="Cache - Control" content="no - cache, no - store, must - revalidate">
+<meta http-equiv="Pragma" content="no - cache">
+<meta http-equiv="Expires" content="0"></head>
+<body>
+    <form name="aspnetForm" method="post" action="" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+
+	
+	
+	
+</div>
+    
+    
+    
+    <div class="clear" style="height: 15px;">
+    </div>
+    
+    
+<style type="text/css">
+    .label
+    {
+        font-size: 8pt;
+        font-family: tahoma;
+    }
+</style>
+<div id="ctl00_ucSignature1_pnlMain" class="main_note" style="background-color:#C1E2B4;">
+    <div class="verify">
+       
+    
+    </div>
+    <div class="noteholder">
+        
+        
+        <div class="clear"></div>
+    </div>
+    <div class="clear">
+    </div>
+</div>
+
+    <div class="clear" style="height: 5px;">
+    </div>
+   <div class="errorHolder">
+        <span id="ctl00_lblError" class="Error" style="color:DarkRed;font-weight:bold;">عملیات با اشکال مواجه گردید. لطفا مدیر سیستم را در جریان قرار دهید</span>
+    </div>
+   
+   <div id="ctl00_divPriceNote" class="note_price">
+        <p id="ctl00_pPriceNote">کلیه مبالغ درج شده به میلیون ریال می باشد</p>
+    </div>
+   <div class="note_price_Excel">
+    <input type="image" name="ctl00$ibtnExport" id="ctl00_ibtnExport" class="Hidden" src="../Images/ExportToExcel.jpg" alt="Export To Excel" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ibtnExport&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" style="height:20px;border-width:0px;">
+    </div>
+    <div class="clear">
+    </div>
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <style type="text/css">
+        .noWrap
+        {
+            white-space: nowrap;
+        }
+        .colorWhite
+        {
+        	color: white;
+        }
+        .ui-tinytbl-th
+        {
+            background-color: #007ec8;
+        }
+        .GridHeader th
+        {
+        	padding: 0;
+        }
+        .table_wrapper td
+        {
+        	/* IE7 and below */
+        	*padding: 0;
+        }
+        .wrapper
+        {
+        	width: 90%;
+        	margin: 0 auto;
+        }
+        .ui-tinytbl-lastrow, .ui-tinytbl-lastrow th
+        {
+            border-bottom: none;
+        }
+        .ui-tinytbl-firstcol, .firstcol
+        {
+        	border-right: solid 1px #BCBCBC;
+        }
+        .printButton
+        {
+        	float: left;
+        	*margin-top: -15px;
+        }
+        .Hidden
+        {
+        	display: none;
+        }
+    </style>
+    
+    
+    
+    
+    
+
+<br>
+
+
+    <div style="clear: both;"></div>
+    <div id="ctl00_cphBody_UpdatePanel1">
+	
+            
+                    
+
+
+<!--[if lt IE 7]>
+<link href="../css/IE6_html_format_style.css" type="text/css" rel="stylesheet" />
+<![endif]-->
+
+
+
+
+
+<div class="table_holder">
+	<div class="table_wrapper">
+	
+		<div>
+
+	</div>
+		
+		<div includeinexcel="true">
+			<div>
+
+	</div>
+		</div>
+	</div>
+</div>
+<div id="ctl00_cphBody_ucSFinancialPosition_divCoverTextWrapper" style="width: 90%; margin: 5px auto; padding-right: 1px;">
+    <div style="border: 1px solid #bcbcbc; padding-right: 5px;">
+        <span id="ctl00_cphBody_ucSFinancialPosition_lblCoverTextCaption" style="font-size:Small;">سایر اطلاعات:</span>
+        <br>
+        <span id="ctl00_cphBody_ucSFinancialPosition_lblCoverText" class="CoverText" style="color:#0000C0;">lblCoverText</span>
+    </div>
+</div>
+
+
+
+
+                
+        
+</div>
+    <div class="clear height20">
+    </div>
+    <div class="wrapper">
+        <input name="ctl00$cphBody$btnCancel" type="button" id="ctl00_cphBody_btnCancel" class="pBtnOff" onmouseout="this.className='pBtnOff'" onmouseover="this.className='pBtnOn'" style="width: 80px; height: 22px; float: left;" value="انصراف" onclick="window.close();">
+    </div>
+
+    
+
+
+
+
+
+
+</form>
+
+</body>
+</div>
+<br>
+<div>
+<div>
+<hr>
+<h3>
+صورت جریان های نقدی
+</h3>
+<hr>
+</div>
+<br>
+<head id="ctl00_Head1"><title>
+	صورت‌های مالی میاندوره‌ای 6 ماهه منتهی به  1403/06/31 (حسابرسی شده)
+</title>
+    <!--[if lt IE 7]>
+	<link href="../css/IE6_new_style.css" type="text/css" rel="stylesheet" />
+	<![endif]-->
+
+    
+
+    
+
+    
+
+    
+
+    
+<meta http-equiv="Cache - Control" content="no - cache, no - store, must - revalidate">
+<meta http-equiv="Pragma" content="no - cache">
+<meta http-equiv="Expires" content="0"></head>
+<body>
+    <form name="aspnetForm" method="post" action="" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+
+	
+	
+	
+</div>
+    
+    
+    
+    <div class="clear" style="height: 15px;">
+    </div>
+    
+    
+<style type="text/css">
+    .label
+    {
+        font-size: 8pt;
+        font-family: tahoma;
+    }
+</style>
+<div id="ctl00_ucSignature1_pnlMain" class="main_note" style="background-color:#C1E2B4;">
+    <div class="verify">
+       
+    
+    </div>
+    <div class="noteholder">
+        
+        
+        <div class="clear"></div>
+    </div>
+    <div class="clear">
+    </div>
+</div>
+
+    <div class="clear" style="height: 5px;">
+    </div>
+   <div class="errorHolder">
+        <span id="ctl00_lblError" class="Error" style="color:DarkRed;font-weight:bold;">عملیات با اشکال مواجه گردید. لطفا مدیر سیستم را در جریان قرار دهید</span>
+    </div>
+   
+   <div id="ctl00_divPriceNote" class="note_price">
+        <p id="ctl00_pPriceNote">کلیه مبالغ درج شده به میلیون ریال می باشد</p>
+    </div>
+   <div class="note_price_Excel">
+    
+    <a target="_blank" href="http://excel.codal.ir//service/excel/?letterSerial=s5vWNtH6gsQQQaQQQC%2bMQQQaQQQDkqc5yg%3d%3d&amp;sheetId=9&amp;languageId=0">    </a></div>
+    <div class="clear">
+    </div>
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <style type="text/css">
+        .noWrap
+        {
+            white-space: nowrap;
+        }
+        .colorWhite
+        {
+        	color: white;
+        }
+        .ui-tinytbl-th
+        {
+            background-color: #007ec8;
+        }
+        .GridHeader th
+        {
+        	padding: 0;
+        }
+        .table_wrapper td
+        {
+        	/* IE7 and below */
+        	*padding: 0;
+        }
+        .wrapper
+        {
+        	width: 90%;
+        	margin: 0 auto;
+        }
+        .ui-tinytbl-lastrow, .ui-tinytbl-lastrow th
+        {
+            border-bottom: none;
+        }
+        .ui-tinytbl-firstcol, .firstcol
+        {
+        	border-right: solid 1px #BCBCBC;
+        }
+        .printButton
+        {
+        	float: left;
+        	*margin-top: -15px;
+        }
+        .Hidden
+        {
+        	display: none;
+        }
+    </style>
+    
+    
+    
+    
+    
+
+<br>
+
+
+    <div style="clear: both;"></div>
+    <div id="ctl00_cphBody_UpdatePanel1">
+	
+            
+                    
+
+
+<!--[if lt IE 7]>
+<link href="../css/IE6_html_format_style.css" type="text/css" rel="stylesheet" />
+<![endif]-->
+
+
+
+
+
+<div class="table_holder">
+	<div class="table_wrapper">
+	
+		<div>
+
+	</div>
+		
+		<div includeinexcel="true">
+			<div>
+
+	</div>
+		</div>
+	</div>
+</div>
+<div id="ctl00_cphBody_ucSFinancialPosition_divCoverTextWrapper" style="width: 90%; margin: 5px auto; padding-right: 1px;">
+    <div style="border: 1px solid #bcbcbc; padding-right: 5px;">
+        <span id="ctl00_cphBody_ucSFinancialPosition_lblCoverTextCaption" style="font-size:Small;">سایر اطلاعات:</span>
+        <br>
+        <span id="ctl00_cphBody_ucSFinancialPosition_lblCoverText" class="CoverText" style="color:#0000C0;">lblCoverText</span>
+    </div>
+</div>
+
+
+
+
+                
+        
+</div>
+    <div class="clear height20">
+    </div>
+    <div class="wrapper">
+        <input name="ctl00$cphBody$btnCancel" type="button" id="ctl00_cphBody_btnCancel" class="pBtnOff" onmouseout="this.className='pBtnOff'" onmouseover="this.className='pBtnOn'" style="width: 80px; height: 22px; float: left;" value="انصراف" onclick="window.close();">
+    </div>
+
+    
+
+
+
+
+
+
+</form>
+
+</body>
+</div>
+<br>
+<div>
+<div>
+<hr>
+<h3>
+اعضاي هيئت مديره
+</h3>
+<hr>
+</div>
+<br>
+<head id="ctl00_Head1"><title>
+
+</title>
+    <!--[if lt IE 7]>
+	<link href="../css/IE6_new_style.css" type="text/css" rel="stylesheet" />
+	<![endif]-->
+
+    
+
+    
+
+    
+
+    
+
+    
+<meta http-equiv="Cache - Control" content="no - cache, no - store, must - revalidate">
+<meta http-equiv="Pragma" content="no - cache">
+<meta http-equiv="Expires" content="0"></head>
+<body>
+    <form name="aspnetForm" method="post" action="" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+
+	
+	
+	
+</div>
+    
+    
+    
+    <div class="clear" style="height: 15px;">
+    </div>
+    
+    
+<style type="text/css">
+    .label
+    {
+        font-size: 8pt;
+        font-family: tahoma;
+    }
+</style>
+<div id="ctl00_ucSignature1_pnlMain" class="main_note" style="background-color:#C1E2B4;">
+    <div class="verify">
+       
+    
+    </div>
+    <div class="noteholder">
+        
+        
+        <div class="clear"></div>
+    </div>
+    <div class="clear">
+    </div>
+</div>
+
+    <div class="clear" style="height: 5px;">
+    </div>
+   <div class="errorHolder">
+        <span id="ctl00_lblError" class="Error" style="color:DarkRed;font-weight:bold;">عملیات با اشکال مواجه گردید. لطفا مدیر سیستم را در جریان قرار دهید</span>
+    </div>
+   
+   <div id="ctl00_divPriceNote" class="note_price">
+        <p id="ctl00_pPriceNote">کلیه مبالغ درج شده به میلیون ریال می باشد</p>
+    </div>
+   <div class="note_price_Excel">
+    <input type="image" name="ctl00$ibtnExport" id="ctl00_ibtnExport" class="Hidden" src="../Images/ExportToExcel.jpg" alt="Export To Excel" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ibtnExport&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" style="height:20px;border-width:0px;">
+    </div>
+    <div class="clear">
+    </div>
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <style type="text/css">
+        .noWrap
+        {
+            white-space: nowrap;
+        }
+        .colorWhite
+        {
+        	color: white;
+        }
+        .ui-tinytbl-th
+        {
+            background-color: #007ec8;
+        }
+        .GridHeader th
+        {
+        	padding: 0;
+        }
+        .table_wrapper td
+        {
+        	/* IE7 and below */
+        	*padding: 0;
+        }
+        .wrapper
+        {
+        	width: 90%;
+        	margin: 0 auto;
+        }
+        .ui-tinytbl-lastrow, .ui-tinytbl-lastrow th
+        {
+            border-bottom: none;
+        }
+        .ui-tinytbl-firstcol, .firstcol
+        {
+        	border-right: solid 1px #BCBCBC;
+        }
+        .printButton
+        {
+        	float: left;
+        	*margin-top: -15px;
+        }
+        .Hidden
+        {
+        	display: none;
+        }
+    </style>
+    
+    
+    
+    
+    
+
+<br>
+
+
+    <div style="clear: both;"></div>
+    <div id="ctl00_cphBody_UpdatePanel1">
+	
+            
+                    
+
+
+<!--[if lt IE 7]>
+<link href="../css/IE6_html_format_style.css" type="text/css" rel="stylesheet" />
+<![endif]-->
+
+
+
+
+
+<div class="table_holder">
+	<div class="table_wrapper">
+	
+		<div>
+
+	</div>
+		
+		<div includeinexcel="true">
+			<div>
+
+	</div>
+		</div>
+	</div>
+</div>
+<div id="ctl00_cphBody_ucSFinancialPosition_divCoverTextWrapper" style="width: 90%; margin: 5px auto; padding-right: 1px;">
+    <div style="border: 1px solid #bcbcbc; padding-right: 5px;">
+        <span id="ctl00_cphBody_ucSFinancialPosition_lblCoverTextCaption" style="font-size:Small;">سایر اطلاعات:</span>
+        <br>
+        <span id="ctl00_cphBody_ucSFinancialPosition_lblCoverText" class="CoverText" style="color:#0000C0;">lblCoverText</span>
+    </div>
+</div>
+
+
+
+
+                
+        
+</div>
+    <div class="clear height20">
+    </div>
+    <div class="wrapper">
+        <input name="ctl00$cphBody$btnCancel" type="button" id="ctl00_cphBody_btnCancel" class="pBtnOff" onmouseout="this.className='pBtnOff'" onmouseover="this.className='pBtnOn'" style="width: 80px; height: 22px; float: left;" value="انصراف" onclick="window.close();">
+    </div>
+
+    
+
+
+
+
+
+
+</form>
+
+</body>
+</div>
+<br>
+</body>
+</html>
+</body>
+</html>
+
+
+
+

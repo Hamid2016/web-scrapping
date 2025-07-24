@@ -1,205 +1,161 @@
-2025-06-22 16:30:14,627 - __main__ - INFO - Logging configured successfully!
-2025-06-23 11:27:45,271 - __main__ - INFO - Logging configured successfully!
-2025-06-23 11:29:54,498 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
-2025-06-23 11:31:56,357 - __main__ - INFO - Logging configured successfully!
-2025-06-23 11:32:13,222 - __main__ - INFO - 'فولاد' is selected
-2025-06-23 11:32:16,844 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-23 11:32:18,846 - __main__ - INFO - 1404-04-02 to
-2025-06-23 11:32:18,847 - __main__ - INFO - 1399-04-02 from
-2025-06-23 11:32:33,310 - __main__ - INFO - Finished all pages!
-2025-06-23 11:33:01,352 - __main__ - INFO - Logging configured successfully!
-2025-06-23 11:33:20,458 - __main__ - INFO - Logging configured successfully!
-2025-06-23 11:47:07,894 - __main__ - INFO - Logging configured successfully!
-2025-06-23 11:47:23,372 - __main__ - INFO - 'فولاد' is selected
-2025-06-23 11:47:27,003 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-23 11:47:29,004 - __main__ - INFO - 1404-04-02 to
-2025-06-23 11:47:29,005 - __main__ - INFO - 1399-04-02 from
-2025-06-23 11:47:43,254 - __main__ - INFO - Finished all pages!
-2025-06-24 12:23:09,113 - __main__ - INFO - Logging configured successfully!
-2025-06-24 12:24:28,854 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
-2025-06-24 12:24:52,715 - __main__ - INFO - 'فولاد' is selected
-2025-06-24 12:24:56,394 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-24 12:24:58,396 - __main__ - INFO - 1404-04-03 to
-2025-06-24 12:24:58,397 - __main__ - INFO - 1399-04-03 from
-2025-06-24 12:25:12,463 - __main__ - INFO - Finished all pages!
-2025-06-24 14:45:19,904 - __main__ - INFO - Logging configured successfully!
-2025-06-24 14:46:46,259 - selenium.webdriver.common.selenium_manager - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
-2025-06-24 14:46:46,259 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
-2025-06-24 14:47:56,153 - __main__ - INFO - Logging configured successfully!
-2025-06-24 14:49:20,717 - selenium.webdriver.common.selenium_manager - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
-2025-06-24 14:50:00,774 - __main__ - INFO - Logging configured successfully!
-2025-06-24 14:51:30,811 - __main__ - INFO - Logging configured successfully!
-2025-06-24 14:52:55,399 - selenium.webdriver.common.selenium_manager - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
-2025-06-25 08:49:42,001 - __main__ - INFO - Logging configured successfully!
-2025-06-25 08:50:37,708 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
-2025-06-25 08:51:02,952 - __main__ - INFO - 'فولاد' is selected
-2025-06-25 08:51:06,654 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-25 08:51:08,656 - __main__ - INFO - 1404-04-04 to
-2025-06-25 08:51:08,657 - __main__ - INFO - 1399-04-04 from
-2025-06-25 08:51:23,954 - __main__ - INFO - Finished all pages!
-2025-06-25 09:01:19,773 - __main__ - INFO - Logging configured successfully!
-2025-06-25 09:02:33,195 - __main__ - INFO - Logging configured successfully!
-2025-06-25 10:14:04,319 - __main__ - INFO - Logging configured successfully!
-2025-06-25 10:14:20,168 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
-2025-06-25 10:18:24,862 - __main__ - INFO - Logging configured successfully!
-2025-06-25 10:19:54,614 - __main__ - INFO - Logging configured successfully!
-2025-06-25 10:20:36,492 - __main__ - INFO - 'فولاد' is selected
-2025-06-25 10:20:40,203 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-25 10:20:42,981 - __main__ - INFO - 1404-04-04 to
-2025-06-25 10:20:42,982 - __main__ - INFO - 1399-04-04 from
-2025-06-25 10:21:26,120 - __main__ - INFO - Logging configured successfully!
-2025-06-25 10:23:20,358 - __main__ - INFO - Logging configured successfully!
-2025-06-25 10:25:09,251 - __main__ - INFO - Logging configured successfully!
-2025-06-25 10:28:13,217 - __main__ - INFO - Logging configured successfully!
-2025-06-25 10:29:40,896 - __main__ - INFO - 'فولاد' is selected
-2025-06-25 10:30:00,903 - __main__ - INFO - Logging configured successfully!
-2025-06-25 10:31:11,200 - __main__ - INFO - 'فولاد' is selected
-2025-06-25 10:31:14,907 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-25 10:31:17,698 - __main__ - INFO - 1404-04-04 to
-2025-06-25 10:31:17,699 - __main__ - INFO - 1399-04-04 from
-2025-06-25 10:31:33,110 - __main__ - INFO - Finished all pages!
-2025-06-25 10:32:40,112 - __main__ - INFO - Logging configured successfully!
-2025-06-25 10:33:17,071 - __main__ - INFO - Logging configured successfully!
-2025-06-25 10:35:38,380 - __main__ - INFO - Logging configured successfully!
-2025-06-25 10:36:41,150 - __main__ - INFO - Logging configured successfully!
-2025-06-25 10:37:08,913 - __main__ - INFO - 'فولاد' is selected
-2025-06-25 10:37:12,536 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-25 10:37:14,538 - __main__ - INFO - 1404-04-04 to
-2025-06-25 10:37:14,539 - __main__ - INFO - 1399-04-04 from
-2025-06-25 10:37:30,120 - __main__ - INFO - Finished all pages!
-2025-06-25 10:42:51,726 - __main__ - INFO - Logging configured successfully!
-2025-06-25 11:13:47,249 - __main__ - INFO - Logging configured successfully!
-2025-06-25 11:14:09,073 - __main__ - INFO - 'فولاد' is selected
-2025-06-25 11:14:09,454 - __main__ - INFO - 'همه موارد' is selected
-2025-06-25 11:14:09,455 - __main__ - INFO - 1404-04-04 to
-2025-06-25 11:14:09,455 - __main__ - INFO - 1399-04-04 from
-2025-06-25 11:14:43,296 - __main__ - INFO - Logging configured successfully!
-2025-06-25 11:16:03,820 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
-2025-06-25 11:16:56,740 - __main__ - INFO - 'فولاد' is selected
-2025-06-25 11:16:57,134 - __main__ - INFO - 'همه موارد' is selected
-2025-06-25 11:16:57,135 - __main__ - INFO - 1404-04-04 to
-2025-06-25 11:16:57,136 - __main__ - INFO - 1399-04-04 from
-2025-06-25 11:17:23,104 - __main__ - INFO - Logging configured successfully!
-2025-06-25 11:18:29,806 - __main__ - INFO - Logging configured successfully!
-2025-06-25 11:20:15,321 - __main__ - INFO - Logging configured successfully!
-2025-06-25 11:20:46,300 - __main__ - INFO - 'فولاد' is selected
-2025-06-25 11:20:46,670 - __main__ - INFO - 'همه موارد' is selected
-2025-06-25 11:20:46,671 - __main__ - INFO - 1404-04-04 to
-2025-06-25 11:20:46,671 - __main__ - INFO - 1399-04-04 from
-2025-06-25 11:20:47,995 - __main__ - INFO - Finished all pages!
-2025-06-25 11:20:59,433 - __main__ - INFO - Logging configured successfully!
-2025-06-25 11:21:08,930 - __main__ - INFO - 'فولاد' is selected
-2025-06-25 11:21:09,309 - __main__ - INFO - 'همه موارد' is selected
-2025-06-25 11:21:09,310 - __main__ - INFO - 1404-04-04 to
-2025-06-25 11:21:09,310 - __main__ - INFO - 1399-04-04 from
-2025-06-25 11:21:10,670 - __main__ - INFO - Finished all pages!
-2025-06-25 11:21:57,489 - __main__ - INFO - Logging configured successfully!
-2025-06-25 11:23:49,183 - __main__ - INFO - Logging configured successfully!
-2025-06-25 11:25:54,005 - __main__ - INFO - Logging configured successfully!
-2025-06-25 11:30:04,743 - __main__ - INFO - Logging configured successfully!
-2025-06-25 11:44:13,999 - __main__ - INFO - Logging configured successfully!
-2025-06-25 11:45:46,957 - __main__ - INFO - 'فولاد' is selected
-2025-06-25 11:45:47,590 - __main__ - INFO - 'همه موارد' is selected
-2025-06-25 11:45:47,592 - __main__ - INFO - 1404-04-04 to
-2025-06-25 11:45:47,592 - __main__ - INFO - 1399-04-04 from
-2025-06-25 11:45:50,033 - __main__ - INFO - Finished all pages!
-2025-06-25 12:23:17,251 - __main__ - INFO - Logging configured successfully!
-2025-06-25 12:25:28,276 - __main__ - INFO - Logging configured successfully!
-2025-06-25 13:46:26,580 - __main__ - INFO - Logging configured successfully!
-2025-06-25 13:48:46,256 - __main__ - INFO - Logging configured successfully!
-2025-06-25 13:51:01,769 - __main__ - INFO - Logging configured successfully!
-2025-06-25 14:54:52,864 - __main__ - INFO - Logging configured successfully!
-2025-06-25 15:13:55,240 - __main__ - INFO - Logging configured successfully!
-2025-06-25 15:18:50,396 - __main__ - INFO - Logging configured successfully!
-2025-06-25 15:21:33,325 - __main__ - INFO - Logging configured successfully!
-2025-06-25 15:22:53,617 - __main__ - INFO - Logging configured successfully!
-2025-06-25 15:40:26,390 - __main__ - INFO - Logging configured successfully!
-2025-06-25 15:41:11,691 - __main__ - INFO - Logging configured successfully!
-2025-06-25 15:43:22,905 - __main__ - INFO - Logging configured successfully!
-2025-06-25 15:45:09,792 - __main__ - INFO - Logging configured successfully!
-2025-06-25 15:49:01,902 - __main__ - INFO - Logging configured successfully!
-2025-06-26 19:29:25,666 - __main__ - INFO - Logging configured successfully!
-2025-06-26 19:29:43,203 - __main__ - INFO - 'فولاد' is selected
-2025-06-26 19:29:47,082 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-26 19:29:49,084 - __main__ - INFO - 1404-04-05 to
-2025-06-26 19:29:49,085 - __main__ - INFO - 1399-04-05 from
-2025-06-26 19:30:02,429 - __main__ - INFO - Finished all pages!
-2025-06-26 20:12:51,581 - __main__ - INFO - Logging configured successfully!
-2025-06-26 20:13:03,791 - __main__ - INFO - 'فولاد' is selected
-2025-06-26 20:13:07,215 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-26 20:13:09,216 - __main__ - INFO - 1404-04-05 to
-2025-06-26 20:13:09,217 - __main__ - INFO - 1399-04-05 from
-2025-06-26 20:13:23,567 - __main__ - INFO - Finished all pages!
-2025-06-26 20:52:48,672 - __main__ - INFO - Logging configured successfully!
-2025-06-26 20:53:11,133 - __main__ - INFO - 'فولاد' is selected
-2025-06-26 20:53:14,692 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-26 20:53:16,695 - __main__ - INFO - 1404-04-05 to
-2025-06-26 20:53:16,695 - __main__ - INFO - 1399-04-05 from
-2025-06-26 20:53:31,589 - __main__ - INFO - Finished all pages!
-2025-06-26 20:53:39,519 - __main__ - INFO - Logging configured successfully!
-2025-06-26 20:53:53,223 - __main__ - INFO - 'فولاد' is selected
-2025-06-26 20:53:56,771 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-26 20:53:58,773 - __main__ - INFO - 1404-04-05 to
-2025-06-26 20:53:58,773 - __main__ - INFO - 1399-04-05 from
-2025-06-26 20:54:23,694 - __main__ - INFO - Logging configured successfully!
-2025-06-26 20:54:37,479 - __main__ - INFO - 'فولاد' is selected
-2025-06-26 20:54:40,974 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-26 20:54:42,976 - __main__ - INFO - 1404-04-05 to
-2025-06-26 20:54:42,977 - __main__ - INFO - 1399-04-05 from
-2025-06-26 20:55:15,870 - __main__ - INFO - Logging configured successfully!
-2025-06-26 20:55:30,711 - __main__ - INFO - 'فولاد' is selected
-2025-06-26 20:55:34,224 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-26 20:55:41,487 - __main__ - INFO - 1404-04-05 to
-2025-06-26 20:55:41,488 - __main__ - INFO - 1399-04-05 from
-2025-06-26 20:55:56,198 - __main__ - INFO - Finished all pages!
-2025-06-26 21:51:00,598 - __main__ - INFO - Logging configured successfully!
-2025-06-26 21:51:12,772 - __main__ - INFO - 'فولاد' is selected
-2025-06-26 21:51:16,064 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-26 21:51:23,316 - __main__ - INFO - 1404-04-05 to
-2025-06-26 21:51:23,317 - __main__ - INFO - 1399-04-05 from
-2025-06-26 21:52:37,619 - __main__ - INFO - Logging configured successfully!
-2025-06-26 21:52:49,038 - __main__ - INFO - 'فولاد' is selected
-2025-06-26 21:52:52,395 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-26 21:52:59,531 - __main__ - INFO - 1404-04-05 to
-2025-06-26 21:52:59,531 - __main__ - INFO - 1399-04-05 from
-2025-06-26 21:53:58,215 - __main__ - INFO - Logging configured successfully!
-2025-06-26 21:54:02,443 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
-2025-06-26 21:54:12,952 - __main__ - INFO - Logging configured successfully!
-2025-06-26 21:54:25,487 - __main__ - INFO - 'فولاد' is selected
-2025-06-26 21:54:28,727 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-26 21:54:35,857 - __main__ - INFO - 1404-04-05 to
-2025-06-26 21:54:35,857 - __main__ - INFO - 1399-04-05 from
-2025-06-26 22:04:11,198 - __main__ - INFO - Logging configured successfully!
-2025-06-26 22:04:22,504 - __main__ - INFO - 'فولاد' is selected
-2025-06-26 22:04:25,816 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-06-26 22:04:32,950 - __main__ - INFO - 1404-04-05 to
-2025-06-26 22:04:32,951 - __main__ - INFO - 1399-04-05 from
-2025-06-26 22:04:47,084 - __main__ - INFO - Finished all pages!
-2025-07-05 14:25:58,795 - __main__ - INFO - Logging configured successfully!
-2025-07-05 14:27:26,413 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
-2025-07-05 14:27:40,991 - __main__ - INFO - 'فولاد' is selected
-2025-07-05 14:27:44,629 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-07-05 14:27:51,943 - __main__ - INFO - 1404-04-14 to
-2025-07-05 14:27:51,943 - __main__ - INFO - 1399-04-14 from
-2025-07-05 14:36:12,732 - __main__ - INFO - Logging configured successfully!
-2025-07-05 14:36:28,658 - __main__ - INFO - Logging configured successfully!
-2025-07-05 14:36:50,691 - __main__ - INFO - Logging configured successfully!
-2025-07-05 14:37:03,876 - __main__ - INFO - 'فولاد' is selected
-2025-07-05 14:37:07,512 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-07-05 14:37:14,843 - __main__ - INFO - 1404-04-14 to
-2025-07-05 14:37:14,844 - __main__ - INFO - 1399-04-14 from
-2025-07-05 14:43:04,101 - __main__ - INFO - Logging configured successfully!
-2025-07-05 14:43:52,597 - __main__ - INFO - Logging configured successfully!
-2025-07-05 14:44:08,022 - __main__ - INFO - Logging configured successfully!
-2025-07-05 14:44:26,186 - __main__ - INFO - Logging configured successfully!
-2025-07-05 14:44:41,555 - __main__ - INFO - Logging configured successfully!
-2025-07-05 14:44:52,174 - __main__ - INFO - 'فولاد' is selected
-2025-07-05 14:44:55,474 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-07-05 14:45:02,625 - __main__ - INFO - 1404-04-14 to
-2025-07-05 14:45:02,626 - __main__ - INFO - 1399-04-14 from
-2025-07-05 15:12:03,478 - __main__ - INFO - Logging configured successfully!
-2025-07-05 15:12:21,892 - __main__ - INFO - Logging configured successfully!
-2025-07-05 15:12:33,040 - __main__ - INFO - 'فولاد' is selected
-2025-07-05 15:12:36,385 - __main__ - INFO - 'اطلاعات و صورت مالی سالانه' is selected
-2025-07-05 15:12:43,543 - __main__ - INFO - 1404-04-14 to
-2025-07-05 15:12:43,568 - __main__ - INFO - 1399-04-14 from
+2025-07-24 11:51:54,255 - __main__ - INFO - Logging configured successfully!
+2025-07-24 11:52:40,206 - __main__ - INFO - Logging configured successfully!
+2025-07-24 11:53:23,986 - __main__ - INFO - Logging configured successfully!
+2025-07-24 11:53:45,092 - __main__ - INFO - Logging configured successfully!
+2025-07-24 11:54:29,811 - __main__ - INFO - number of excle in this page is 18
+2025-07-24 11:54:29,852 - __main__ - ERROR - ⚠️ Unexpected error (n=1): Message: no such element: Unable to locate element: {"method":"css selector","selector":"#divLetterFormList .ng-scope:nth-child(1) .icon-excel"}
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff69a7ce935+77845]
+	GetHandleVerifier [0x0x7ff69a7ce990+77936]
+	(No symbol) [0x0x7ff69a589cda]
+	(No symbol) [0x0x7ff69a5e06aa]
+	(No symbol) [0x0x7ff69a5e095c]
+	(No symbol) [0x0x7ff69a633d07]
+	(No symbol) [0x0x7ff69a60890f]
+	(No symbol) [0x0x7ff69a630b07]
+	(No symbol) [0x0x7ff69a6086a3]
+	(No symbol) [0x0x7ff69a5d1791]
+	(No symbol) [0x0x7ff69a5d2523]
+	GetHandleVerifier [0x0x7ff69aaa684d+3059501]
+	GetHandleVerifier [0x0x7ff69aaa0c0d+3035885]
+	GetHandleVerifier [0x0x7ff69aac0400+3164896]
+	GetHandleVerifier [0x0x7ff69a7e8c3e+185118]
+	GetHandleVerifier [0x0x7ff69a7f054f+216111]
+	GetHandleVerifier [0x0x7ff69a7d72e4+113092]
+	GetHandleVerifier [0x0x7ff69a7d7499+113529]
+	GetHandleVerifier [0x0x7ff69a7be298+10616]
+	BaseThreadInitThunk [0x0x7ffdfa65e8d7+23]
+	RtlUserThreadStart [0x0x7ffdfb8dc34c+44]
+
+2025-07-24 11:54:43,615 - __main__ - ERROR - ⚠️ Unexpected error (n=1): [WinError 5] Access is denied: 'G:\\DS\\web scrapping\\excle\\year\\logs' -> 'G:\\DS\\web scrapping\\excle\\year\\زمانبندی پرداخت سود دوره ۱۲ ماهه منتهی به ۱۴۰۳-۱۲-۳۰.xls'
+2025-07-24 11:55:01,292 - __main__ - ERROR - ⚠️ Unexpected error (n=2): [WinError 5] Access is denied: 'G:\\DS\\web scrapping\\excle\\year\\logs' -> 'G:\\DS\\web scrapping\\excle\\year\\اطلاعات و صورت\u200cهای مالی میاندوره\u200cای دوره ۳ ماهه منتهی به ۱۴۰۴-۰۳-۳۱ (حسابرسی نشده).xls'
+2025-07-24 11:55:06,330 - __main__ - ERROR - ⚠️ Unexpected error (n=3): Message: no such element: Unable to locate element: {"method":"css selector","selector":".ng-scope:nth-child(3) .icon-excel"}
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff69a7ce935+77845]
+	GetHandleVerifier [0x0x7ff69a7ce990+77936]
+	(No symbol) [0x0x7ff69a589cda]
+	(No symbol) [0x0x7ff69a5e06aa]
+	(No symbol) [0x0x7ff69a5e095c]
+	(No symbol) [0x0x7ff69a633d07]
+	(No symbol) [0x0x7ff69a60890f]
+	(No symbol) [0x0x7ff69a630b07]
+	(No symbol) [0x0x7ff69a6086a3]
+	(No symbol) [0x0x7ff69a5d1791]
+	(No symbol) [0x0x7ff69a5d2523]
+	GetHandleVerifier [0x0x7ff69aaa684d+3059501]
+	GetHandleVerifier [0x0x7ff69aaa0c0d+3035885]
+	GetHandleVerifier [0x0x7ff69aac0400+3164896]
+	GetHandleVerifier [0x0x7ff69a7e8c3e+185118]
+	GetHandleVerifier [0x0x7ff69a7f054f+216111]
+	GetHandleVerifier [0x0x7ff69a7d72e4+113092]
+	GetHandleVerifier [0x0x7ff69a7d7499+113529]
+	GetHandleVerifier [0x0x7ff69a7be298+10616]
+	BaseThreadInitThunk [0x0x7ffdfa65e8d7+23]
+	RtlUserThreadStart [0x0x7ffdfb8dc34c+44]
+
+2025-07-24 11:55:18,411 - __main__ - INFO - G:\DS\web scrapping\excle\year\گزارش کنترل های داخلی در تاریخ ۱۴۰۳-۱۲-۳۰.xls is successfully downloaded
+2025-07-24 11:55:35,981 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت صنایع معدنی فولاد سنگان خراسان).xls is successfully downloaded
+2025-07-24 11:55:53,533 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت صنعتی ومعدنی آتیه فولاد سنگان).xls is successfully downloaded
+2025-07-24 11:56:11,131 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت تامین و فرآوری مواد معدنی فولاد مبارکه).xls is successfully downloaded
+2025-07-24 11:56:28,702 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت آتیه فولاد نقش جهان).xls is successfully downloaded
+2025-07-24 11:56:47,242 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت فولاد متیل).xls is successfully downloaded
+2025-07-24 11:57:04,843 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت ورق خودروی چهارمحال وبختیاری).xls is successfully downloaded
+2025-07-24 11:57:22,448 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت شرکت فولاد سفید دشت چهار محال و بختیاری).xls is successfully downloaded
+2025-07-24 11:57:40,045 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت صندوق پژوهش و فناوری سرمایه گذاری خطر پذیر شرکتی فولاد مبارکه اصفهان).xls is successfully downloaded
+2025-07-24 11:57:57,665 - __main__ - ERROR - ⚠️ Unexpected error (n=12): [WinError 2] The system cannot find the file specified: 'G:\\DS\\web scrapping\\excle\\year\\0013e129-240a-4f43-9703-83b01b24844d.xls.crdownload' -> 'G:\\DS\\web scrapping\\excle\\year\\صورت\u200cهای مالی تلفیقی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی نشده)(اصلاحیه).xls'
+2025-07-24 11:58:16,773 - __main__ - ERROR - ⚠️ Unexpected error (n=13): [WinError 2] The system cannot find the file specified: 'G:\\DS\\web scrapping\\excle\\year\\d038f1f5-edfe-4443-a0a8-f8a5ea4939b5.xls.crdownload' -> 'G:\\DS\\web scrapping\\excle\\year\\صورت\u200cهای مالی تلفیقی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی نشده).xls'
+2025-07-24 11:58:34,398 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت صنایع نیرو و انرژی پاک فولاد).xls is successfully downloaded
+2025-07-24 11:58:51,990 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت بین المللی مهندسی سیستم ها و اتوماسیون).xls is successfully downloaded
+2025-07-24 11:59:09,562 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت صنایع فولاد توان آور آسیا).xls is successfully downloaded
+2025-07-24 11:59:27,118 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت ورق های آلیاژی فولاد مبارکه اصفهان).xls is successfully downloaded
+2025-07-24 11:59:44,824 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت مجتمع فولاد و نورد سبا اصفهان).xls is successfully downloaded
+2025-07-24 11:59:52,924 - __main__ - INFO - number of excle in this page is 20
+2025-07-24 12:00:05,506 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت صنایع آتیه لوله پارتاک).xls is successfully downloaded
+2025-07-24 12:00:28,066 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت فنی مهندسی فولاد مبارکه مهر جی).xls is successfully downloaded
+2025-07-24 12:00:50,623 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی نشده).xls is successfully downloaded
+2025-07-24 12:01:13,193 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت آتیه تجارت نقش جهان قشم).xls is successfully downloaded
+2025-07-24 12:01:35,788 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت صنایع فولاد سهند آغاز).xls is successfully downloaded
+2025-07-24 12:01:58,355 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت فولاد گستر یزد).xls is successfully downloaded
+2025-07-24 12:02:20,940 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت آهن و فولاد صنیع کاوه تهران).xls is successfully downloaded
+2025-07-24 12:02:43,543 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت امین طب سپانو).xls is successfully downloaded
+2025-07-24 12:03:06,124 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت پردازش فولاد فرایند البرز).xls is successfully downloaded
+2025-07-24 12:03:28,754 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت فولاد گستران بجنورد)(اصلاحیه).xls is successfully downloaded
+2025-07-24 12:03:51,354 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت صبا فولاد گیلان).xls is successfully downloaded
+2025-07-24 12:04:13,959 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت کارگزاری مبین سرمایه).xls is successfully downloaded
+2025-07-24 12:04:36,520 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت دانا فولاد سمنان).xls is successfully downloaded
+2025-07-24 12:04:59,263 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت آهن و فولاد ساوالان زنجان).xls is successfully downloaded
+2025-07-24 12:05:21,823 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت صنایع آهن و فولاد توس).xls is successfully downloaded
+2025-07-24 12:05:44,474 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت مهندسی سامانه های پشتیبان تصمیم تاک بن).xls is successfully downloaded
+2025-07-24 12:06:07,074 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت فولاد کاوان حامی ایرانیان).xls is successfully downloaded
+2025-07-24 12:06:29,711 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت صنایع اهن وفولاد نور).xls is successfully downloaded
+2025-07-24 12:06:52,355 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت صنایع آهن وفولاد آرتا ویل ساخت).xls is successfully downloaded
+2025-07-24 12:07:15,623 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت آهن و فولاد اصفهان).xls is successfully downloaded
+2025-07-24 12:07:23,000 - __main__ - INFO - number of excle in this page is 20
+2025-07-24 12:07:38,337 - __main__ - ERROR - ⚠️ Unexpected error (n=1): [WinError 2] The system cannot find the file specified: 'G:\\DS\\web scrapping\\excle\\year\\ba7730fd-f5f8-4841-9cd7-c0c573ae706f.xls.crdownload' -> 'G:\\DS\\web scrapping\\excle\\year\\صورت\u200cهای مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت فولاد ساخت جنوب).xls'
+2025-07-24 12:08:00,900 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت فولاد زاگرس چهارمحال).xls is successfully downloaded
+2025-07-24 12:08:21,471 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت پارس فولاد مبین).xls is successfully downloaded
+2025-07-24 12:08:39,023 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت آتیه فولاد معدن پارسیان).xls is successfully downloaded
+2025-07-24 12:08:56,578 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت حدید کاران لرستان).xls is successfully downloaded
+2025-07-24 12:09:14,248 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت فولاد گستران هرمزگان).xls is successfully downloaded
+2025-07-24 12:09:32,346 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت فولاد گستران بجنورد).xls is successfully downloaded
+2025-07-24 12:09:49,981 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت فولاد گستران کرمانشاه).xls is successfully downloaded
+2025-07-24 12:10:07,552 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت فولاد برش بیرجند).xls is successfully downloaded
+2025-07-24 12:10:25,135 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت آهن فولاد کاسپین).xls is successfully downloaded
+2025-07-24 12:10:30,172 - __main__ - ERROR - ⚠️ Unexpected error (n=11): Message: no such element: Unable to locate element: {"method":"css selector","selector":".ng-scope:nth-child(11) .icon-excel"}
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff69a7ce935+77845]
+	GetHandleVerifier [0x0x7ff69a7ce990+77936]
+	(No symbol) [0x0x7ff69a589cda]
+	(No symbol) [0x0x7ff69a5e06aa]
+	(No symbol) [0x0x7ff69a5e095c]
+	(No symbol) [0x0x7ff69a633d07]
+	(No symbol) [0x0x7ff69a60890f]
+	(No symbol) [0x0x7ff69a630b07]
+	(No symbol) [0x0x7ff69a6086a3]
+	(No symbol) [0x0x7ff69a5d1791]
+	(No symbol) [0x0x7ff69a5d2523]
+	GetHandleVerifier [0x0x7ff69aaa684d+3059501]
+	GetHandleVerifier [0x0x7ff69aaa0c0d+3035885]
+	GetHandleVerifier [0x0x7ff69aac0400+3164896]
+	GetHandleVerifier [0x0x7ff69a7e8c3e+185118]
+	GetHandleVerifier [0x0x7ff69a7f054f+216111]
+	GetHandleVerifier [0x0x7ff69a7d72e4+113092]
+	GetHandleVerifier [0x0x7ff69a7d7499+113529]
+	GetHandleVerifier [0x0x7ff69a7be298+10616]
+	BaseThreadInitThunk [0x0x7ffdfa65e8d7+23]
+	RtlUserThreadStart [0x0x7ffdfb8dc34c+44]
+
+2025-07-24 12:10:42,263 - __main__ - INFO - G:\DS\web scrapping\excle\year\زمانبندی پرداخت سود دوره ۱۲ ماهه منتهی به ۱۴۰۲-۱۲-۲۹(اصلاحیه).xls is successfully downloaded
+2025-07-24 12:10:59,866 - __main__ - ERROR - ⚠️ Unexpected error (n=12): [WinError 2] The system cannot find the file specified: 'G:\\DS\\web scrapping\\excle\\year\\91521910-7143-4dee-8ee9-2dc409307239.xls.crdownload' -> 'G:\\DS\\web scrapping\\excle\\year\\اطلاعات و صورت\u200cهای مالی میاندوره\u200cای تلفیقی دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده).xls'
+2025-07-24 12:11:17,428 - __main__ - ERROR - ⚠️ Unexpected error (n=13): [WinError 2] The system cannot find the file specified: 'G:\\DS\\web scrapping\\excle\\year\\e353893a-a358-42a0-be05-4619d431e1bd.xls.crdownload' -> 'G:\\DS\\web scrapping\\excle\\year\\اطلاعات و صورت\u200cهای مالی میاندوره\u200cای دوره ۹ ماهه منتهی به ۱۴۰۳-۰۹-۳۰ (حسابرسی نشده).xls'
+2025-07-24 12:11:35,044 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۰۳-۳۱ (حسابرسی شده) (شرکت فرهنگی ورزشی فولاد مبارکه سپاهان).xls is successfully downloaded
+2025-07-24 12:11:52,576 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت کارگزاری مبین سرمایه).xls is successfully downloaded
+2025-07-24 12:12:10,100 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت آتیه فولاد نقش جهان).xls is successfully downloaded
+2025-07-24 12:12:27,700 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت فولاد متیل).xls is successfully downloaded
+2025-07-24 12:12:45,258 - __main__ - ERROR - ⚠️ Unexpected error (n=18): [WinError 2] The system cannot find the file specified: 'G:\\DS\\web scrapping\\excle\\year\\bcb0ab99-6c8b-4038-a05d-08c340152059.xls.crdownload' -> 'G:\\DS\\web scrapping\\excle\\year\\اطلاعات و صورت\u200cهای مالی میاندوره\u200cای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت تامین و فرآوری مواد معدنی فولاد مبارکه).xls'
+2025-07-24 12:13:02,899 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت صنایع نیرو و انرژی پاک فولاد).xls is successfully downloaded
+2025-07-24 12:13:20,529 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت فولاد گستران بجنورد).xls is successfully downloaded
+2025-07-24 12:13:27,951 - __main__ - INFO - number of excle in this page is 19
+2025-07-24 12:13:40,385 - __main__ - INFO - G:\DS\web scrapping\excle\year\صورت‌های مالی سال مالی منتهی به ۱۴۰۳-۱۲-۳۰ (حسابرسی شده) (شرکت فولاد ساخت جنوب).xls is successfully downloaded
+2025-07-24 12:13:57,927 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت شرکت فولاد سفید دشت چهار محال و بختیاری).xls is successfully downloaded
+2025-07-24 12:14:15,513 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت صندوق پژوهش و فناوری سرمایه گذاری خطر پذیر شرکتی فولاد مبارکه اصفهان).xls is successfully downloaded
+2025-07-24 12:14:33,089 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت ورق های آلیاژی فولاد مبارکه اصفهان).xls is successfully downloaded
+2025-07-24 12:14:50,696 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت صنایع فولاد توان آور آسیا).xls is successfully downloaded
+2025-07-24 12:15:08,241 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت ورق خودروی چهارمحال وبختیاری).xls is successfully downloaded
+2025-07-24 12:15:25,790 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت صنایع آهن وفولاد آرتا ویل ساخت).xls is successfully downloaded
+2025-07-24 12:15:43,381 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت آتیه فولاد معدن پارسیان).xls is successfully downloaded
+2025-07-24 12:16:00,932 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت فنی مهندسی فولاد مبارکه مهر جی).xls is successfully downloaded
+2025-07-24 12:16:18,549 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت آهن فولاد کاسپین).xls is successfully downloaded
+2025-07-24 12:16:37,073 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت معدنی و صنعتی فولاد سنگ مبارکه اصفهان).xls is successfully downloaded
+2025-07-24 12:16:54,779 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت فولاد ساخت جنوب).xls is successfully downloaded
+2025-07-24 12:17:12,371 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت صنعتی ومعدنی آتیه فولاد سنگان).xls is successfully downloaded
+2025-07-24 12:17:29,973 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت پارس فولاد مبین).xls is successfully downloaded
+2025-07-24 12:17:47,592 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت فولاد کاوان حامی ایرانیان).xls is successfully downloaded
+2025-07-24 12:18:05,315 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت فولاد تاراز چهارمحال).xls is successfully downloaded
+2025-07-24 12:18:23,606 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت آهن و فولاد اصفهان).xls is successfully downloaded
+2025-07-24 12:18:41,169 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت صنایع فولاد سهند آغاز).xls is successfully downloaded
+2025-07-24 12:18:58,784 - __main__ - INFO - G:\DS\web scrapping\excle\year\اطلاعات و صورت‌های مالی میاندوره‌ای دوره ۶ ماهه منتهی به ۱۴۰۳-۰۶-۳۱ (حسابرسی شده) (شرکت بین المللی مهندسی سیستم ها و اتوماسیون).xls is successfully downloaded
+2025-07-24 12:19:04,983 - __main__ - INFO - Finished all pages!

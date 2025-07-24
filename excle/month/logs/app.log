@@ -1,0 +1,94 @@
+2025-07-24 16:34:30,223 - __main__ - INFO - Logging configured successfully!
+2025-07-24 16:35:16,800 - __main__ - INFO - Logging configured successfully!
+2025-07-24 16:35:52,860 - __main__ - INFO - Logging configured successfully!
+2025-07-24 16:36:37,688 - __main__ - INFO - number of excle in this page is 20
+2025-07-24 16:36:50,306 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۴-۰۳-۳۱(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:37:09,537 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۴-۰۳-۳۱.xls is successfully downloaded
+2025-07-24 16:37:27,143 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۴-۰۲-۳۱.xls is successfully downloaded
+2025-07-24 16:37:44,693 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۱۲-۳۰(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:38:02,241 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۴-۰۱-۳۱.xls is successfully downloaded
+2025-07-24 16:38:19,806 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۱۲-۳۰.xls is successfully downloaded
+2025-07-24 16:38:37,500 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۱۱-۳۰.xls is successfully downloaded
+2025-07-24 16:38:55,178 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۱۰-۳۰.xls is successfully downloaded
+2025-07-24 16:39:12,742 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۰۹-۳۰.xls is successfully downloaded
+2025-07-24 16:39:30,318 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۰۸-۳۰.xls is successfully downloaded
+2025-07-24 16:39:47,884 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۰۷-۳۰.xls is successfully downloaded
+2025-07-24 16:40:05,438 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۰۶-۳۱(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:40:24,528 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۰۶-۳۱.xls is successfully downloaded
+2025-07-24 16:40:42,113 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۰۵-۳۱.xls is successfully downloaded
+2025-07-24 16:40:59,689 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۰۴-۳۱.xls is successfully downloaded
+2025-07-24 16:41:17,253 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۰۳-۳۱(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:41:34,841 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۰۳-۳۱.xls is successfully downloaded
+2025-07-24 16:41:52,392 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۰۲-۳۱.xls is successfully downloaded
+2025-07-24 16:42:10,049 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۱۲-۲۹(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:42:27,634 - __main__ - ERROR - ⚠️ Unexpected error (n=20): [WinError 183] Cannot create a file when that file already exists: 'G:\\DS\\web scrapping\\excle\\month\\af8d45ed-9de0-4345-8d40-ffe6513d67af.xls' -> 'G:\\DS\\web scrapping\\excle\\month\\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۱۲-۲۹(اصلاحیه).xls'
+2025-07-24 16:42:35,060 - __main__ - INFO - number of excle in this page is 20
+2025-07-24 16:42:47,631 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۳-۰۱-۳۱.xls is successfully downloaded
+2025-07-24 16:43:05,190 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۱۲-۲۹.xls is successfully downloaded
+2025-07-24 16:43:22,823 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۱۱-۳۰.xls is successfully downloaded
+2025-07-24 16:43:40,450 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۱۰-۳۰.xls is successfully downloaded
+2025-07-24 16:43:58,005 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۹-۳۰(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:44:15,549 - __main__ - ERROR - ⚠️ Unexpected error (n=6): [WinError 183] Cannot create a file when that file already exists: 'G:\\DS\\web scrapping\\excle\\month\\6c96f58e-4fc8-439d-80b2-ef8a0b5c09f8.xls' -> 'G:\\DS\\web scrapping\\excle\\month\\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۹-۳۰(اصلاحیه).xls'
+2025-07-24 16:44:33,105 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۹-۳۰.xls is successfully downloaded
+2025-07-24 16:44:50,688 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۸-۳۰(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:45:08,272 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۸-۳۰.xls is successfully downloaded
+2025-07-24 16:45:25,831 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۷-۳۰(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:45:43,385 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۷-۳۰.xls is successfully downloaded
+2025-07-24 16:46:00,946 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۶-۳۱(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:46:18,522 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۶-۳۱.xls is successfully downloaded
+2025-07-24 16:46:36,131 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۵-۳۱(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:46:53,728 - __main__ - ERROR - ⚠️ Unexpected error (n=15): [WinError 2] The system cannot find the file specified: 'G:\\DS\\web scrapping\\excle\\month\\98a28849-4b80-4747-98fd-fc1fb38f592c.xls.crdownload' -> 'G:\\DS\\web scrapping\\excle\\month\\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۵-۳۱.xls'
+2025-07-24 16:47:11,330 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۴-۳۱.xls is successfully downloaded
+2025-07-24 16:47:28,916 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۳-۳۱(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:47:46,495 - __main__ - ERROR - ⚠️ Unexpected error (n=18): [WinError 183] Cannot create a file when that file already exists: 'G:\\DS\\web scrapping\\excle\\month\\db7b9edc-c291-4022-9610-ed262bb98b3e.xls' -> 'G:\\DS\\web scrapping\\excle\\month\\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۳-۳۱(اصلاحیه).xls'
+2025-07-24 16:48:04,046 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۳-۳۱.xls is successfully downloaded
+2025-07-24 16:48:21,649 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۲-۳۱.xls is successfully downloaded
+2025-07-24 16:48:29,158 - __main__ - INFO - number of excle in this page is 20
+2025-07-24 16:48:41,894 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۱۲-۲۹(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:48:59,491 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۲-۰۱-۳۱.xls is successfully downloaded
+2025-07-24 16:49:17,123 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۱۲-۲۹.xls is successfully downloaded
+2025-07-24 16:49:34,689 - __main__ - ERROR - ⚠️ Unexpected error (n=4): [WinError 2] The system cannot find the file specified: 'G:\\DS\\web scrapping\\excle\\month\\52c0b5ce-c2f2-45f3-9a59-b6d4f9d4e269.xls.crdownload' -> 'G:\\DS\\web scrapping\\excle\\month\\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۱۱-۳۰(اصلاحیه).xls'
+2025-07-24 16:49:52,315 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۱۱-۳۰.xls is successfully downloaded
+2025-07-24 16:50:11,646 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۱۰-۳۰.xls is successfully downloaded
+2025-07-24 16:50:29,224 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۰۹-۳۰(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:50:46,789 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۰۶-۳۱(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:51:04,418 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۰۹-۳۰.xls is successfully downloaded
+2025-07-24 16:51:21,978 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۰۸-۳۰(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:51:39,538 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۰۸-۳۰.xls is successfully downloaded
+2025-07-24 16:51:57,115 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۰۷-۳۰.xls is successfully downloaded
+2025-07-24 16:52:14,769 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۰۶-۳۱.xls is successfully downloaded
+2025-07-24 16:52:32,344 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۰۵-۳۱.xls is successfully downloaded
+2025-07-24 16:52:49,944 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۰۴-۳۱.xls is successfully downloaded
+2025-07-24 16:53:07,520 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۰۳-۳۱(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:53:25,162 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۰۳-۳۱.xls is successfully downloaded
+2025-07-24 16:53:42,738 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۰۲-۳۱.xls is successfully downloaded
+2025-07-24 16:54:00,297 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۰۱-۳۱(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:54:17,872 - __main__ - ERROR - ⚠️ Unexpected error (n=20): [WinError 2] The system cannot find the file specified: 'G:\\DS\\web scrapping\\excle\\month\\06c68adc-816a-4701-91ad-c05f693bb953.xls.crdownload' -> 'G:\\DS\\web scrapping\\excle\\month\\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۰-۱۲-۲۹(اصلاحیه).xls'
+2025-07-24 16:54:25,287 - __main__ - INFO - number of excle in this page is 20
+2025-07-24 16:54:37,863 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۱-۰۱-۳۱.xls is successfully downloaded
+2025-07-24 16:54:55,513 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۰-۱۲-۲۹.xls is successfully downloaded
+2025-07-24 16:55:13,086 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۰-۱۱-۳۰.xls is successfully downloaded
+2025-07-24 16:55:30,643 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۰-۱۰-۳۰.xls is successfully downloaded
+2025-07-24 16:55:48,237 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۰-۰۹-۳۰.xls is successfully downloaded
+2025-07-24 16:56:05,800 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۰-۰۸-۳۰.xls is successfully downloaded
+2025-07-24 16:56:23,423 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۰-۰۷-۳۰.xls is successfully downloaded
+2025-07-24 16:56:42,535 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۰-۰۶-۳۱.xls is successfully downloaded
+2025-07-24 16:57:00,131 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۰-۰۵-۳۱.xls is successfully downloaded
+2025-07-24 16:57:17,713 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۰-۰۴-۳۱.xls is successfully downloaded
+2025-07-24 16:57:35,302 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۰-۰۳-۳۱.xls is successfully downloaded
+2025-07-24 16:57:52,915 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۰-۰۲-۳۱.xls is successfully downloaded
+2025-07-24 16:58:10,508 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۰-۰۱-۳۱.xls is successfully downloaded
+2025-07-24 16:58:28,150 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۳۹۹-۱۲-۳۰(اصلاحیه).xls is successfully downloaded
+2025-07-24 16:58:45,753 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۳۹۹-۱۲-۳۰.xls is successfully downloaded
+2025-07-24 16:59:03,322 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۳۹۹-۱۱-۳۰.xls is successfully downloaded
+2025-07-24 16:59:20,899 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۳۹۹-۱۰-۳۰.xls is successfully downloaded
+2025-07-24 16:59:38,452 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۳۹۹-۰۹-۳۰.xls is successfully downloaded
+2025-07-24 16:59:56,048 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۳۹۹-۰۸-۳۰.xls is successfully downloaded
+2025-07-24 17:00:13,676 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۳۹۹-۰۷-۳۰.xls is successfully downloaded
+2025-07-24 17:00:21,077 - __main__ - INFO - number of excle in this page is 5
+2025-07-24 17:00:33,669 - __main__ - ERROR - ⚠️ Unexpected error (n=1): [WinError 2] The system cannot find the file specified: 'G:\\DS\\web scrapping\\excle\\month\\563bf8c4-68a4-4220-b7d2-ea584b509271.xls.crdownload' -> 'G:\\DS\\web scrapping\\excle\\month\\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۳۹۹-۰۶-۳۱(اصلاحیه).xls'
+2025-07-24 17:00:51,234 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۳۹۹-۰۶-۳۱.xls is successfully downloaded
+2025-07-24 17:01:08,811 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۳۹۹-۰۵-۳۱.xls is successfully downloaded
+2025-07-24 17:01:26,414 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۳۹۹-۰۴-۳۱(اصلاحیه).xls is successfully downloaded
+2025-07-24 17:01:43,965 - __main__ - INFO - G:\DS\web scrapping\excle\month\گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۳۹۹-۰۴-۳۱.xls is successfully downloaded
+2025-07-24 17:01:50,159 - __main__ - INFO - Finished all pages!
